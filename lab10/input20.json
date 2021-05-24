@@ -1,0 +1,102 @@
+[
+  {
+    "gradebook": 1,
+    "surname": "Torres",
+    "avarageMark": 52
+  },
+  {
+    "gradebook": 2,
+    "surname": "Collier",
+    "avarageMark": 78
+  },
+  {
+    "gradebook": 3,
+    "surname": "Hunt",
+    "avarageMark": 3
+  },
+  {
+    "gradebook": 4,
+    "surname": "Snow",
+    "avarageMark": 38
+  },
+  {
+    "gradebook": 5,
+    "surname": "Hines",
+    "avarageMark": 20
+  },
+  {
+    "gradebook": 6,
+    "surname": "Roberson",
+    "avarageMark": 22
+  },
+  {
+    "gradebook": 7,
+    "surname": "Stafford",
+    "avarageMark": 58
+  },
+  {
+    "gradebook": 8,
+    "surname": "Glass",
+    "avarageMark": 26
+  },
+  {
+    "gradebook": 9,
+    "surname": "Butler",
+    "avarageMark": 98
+  },
+  {
+    "gradebook": 10,
+    "surname": "Oneill",
+    "avarageMark": 30
+  },
+  {
+    "gradebook": 11,
+    "surname": "Lester",
+    "avarageMark": 47
+  },
+  {
+    "gradebook": 12,
+    "surname": "Beach",
+    "avarageMark": 19
+  },
+  {
+    "gradebook": 13,
+    "surname": "Summers",
+    "avarageMark": 65
+  },
+  {
+    "gradebook": 14,
+    "surname": "Bentley",
+    "avarageMark": 7
+  },
+  {
+    "gradebook": 15,
+    "surname": "Stewart",
+    "avarageMark": 21
+  },
+  {
+    "gradebook": 16,
+    "surname": "Everett",
+    "avarageMark": 82
+  },
+  {
+    "gradebook": 17,
+    "surname": "Barrett",
+    "avarageMark": 60
+  },
+  {
+    "gradebook": 18,
+    "surname": "Lancaster",
+    "avarageMark": 74
+  },
+  {
+    "gradebook": 19,
+    "surname": "Glenn",
+    "avarageMark": 21
+  },
+  {
+    "gradebook": 20,
+    "surname": "Powers",
+    "avarageMark": 65
+  }
+]

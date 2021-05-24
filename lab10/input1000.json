@@ -1,0 +1,5002 @@
+[
+  {
+    "gradebook": 1,
+    "surname": "Mcguire",
+    "avarageMark": 86
+  },
+  {
+    "gradebook": 2,
+    "surname": "Mccall",
+    "avarageMark": 63
+  },
+  {
+    "gradebook": 3,
+    "surname": "Williams",
+    "avarageMark": 63
+  },
+  {
+    "gradebook": 4,
+    "surname": "Morgan",
+    "avarageMark": 46
+  },
+  {
+    "gradebook": 5,
+    "surname": "Hatfield",
+    "avarageMark": 93
+  },
+  {
+    "gradebook": 6,
+    "surname": "Sargent",
+    "avarageMark": 35
+  },
+  {
+    "gradebook": 7,
+    "surname": "Sweeney",
+    "avarageMark": 54
+  },
+  {
+    "gradebook": 8,
+    "surname": "Hopkins",
+    "avarageMark": 8
+  },
+  {
+    "gradebook": 9,
+    "surname": "Pierce",
+    "avarageMark": 25
+  },
+  {
+    "gradebook": 10,
+    "surname": "Rodriguez",
+    "avarageMark": 83
+  },
+  {
+    "gradebook": 11,
+    "surname": "Horne",
+    "avarageMark": 35
+  },
+  {
+    "gradebook": 12,
+    "surname": "Colon",
+    "avarageMark": 67
+  },
+  {
+    "gradebook": 13,
+    "surname": "Hubbard",
+    "avarageMark": 33
+  },
+  {
+    "gradebook": 14,
+    "surname": "Day",
+    "avarageMark": 41
+  },
+  {
+    "gradebook": 15,
+    "surname": "Cross",
+    "avarageMark": 62
+  },
+  {
+    "gradebook": 16,
+    "surname": "Kerr",
+    "avarageMark": 96
+  },
+  {
+    "gradebook": 17,
+    "surname": "Perkins",
+    "avarageMark": 67
+  },
+  {
+    "gradebook": 18,
+    "surname": "Mcclure",
+    "avarageMark": 8
+  },
+  {
+    "gradebook": 19,
+    "surname": "Wong",
+    "avarageMark": 5
+  },
+  {
+    "gradebook": 20,
+    "surname": "Kennedy",
+    "avarageMark": 65
+  },
+  {
+    "gradebook": 21,
+    "surname": "Lawson",
+    "avarageMark": 86
+  },
+  {
+    "gradebook": 22,
+    "surname": "Horn",
+    "avarageMark": 93
+  },
+  {
+    "gradebook": 23,
+    "surname": "Farley",
+    "avarageMark": 37
+  },
+  {
+    "gradebook": 24,
+    "surname": "Manning",
+    "avarageMark": 47
+  },
+  {
+    "gradebook": 25,
+    "surname": "Bauer",
+    "avarageMark": 4
+  },
+  {
+    "gradebook": 26,
+    "surname": "Young",
+    "avarageMark": 88
+  },
+  {
+    "gradebook": 27,
+    "surname": "Miranda",
+    "avarageMark": 19
+  },
+  {
+    "gradebook": 28,
+    "surname": "Dickerson",
+    "avarageMark": 28
+  },
+  {
+    "gradebook": 29,
+    "surname": "Alexander",
+    "avarageMark": 7
+  },
+  {
+    "gradebook": 30,
+    "surname": "Mckay",
+    "avarageMark": 40
+  },
+  {
+    "gradebook": 31,
+    "surname": "Moses",
+    "avarageMark": 77
+  },
+  {
+    "gradebook": 32,
+    "surname": "Koch",
+    "avarageMark": 53
+  },
+  {
+    "gradebook": 33,
+    "surname": "Tucker",
+    "avarageMark": 43
+  },
+  {
+    "gradebook": 34,
+    "surname": "Fletcher",
+    "avarageMark": 67
+  },
+  {
+    "gradebook": 35,
+    "surname": "Spence",
+    "avarageMark": 43
+  },
+  {
+    "gradebook": 36,
+    "surname": "Morin",
+    "avarageMark": 58
+  },
+  {
+    "gradebook": 37,
+    "surname": "Hopper",
+    "avarageMark": 1
+  },
+  {
+    "gradebook": 38,
+    "surname": "Russo",
+    "avarageMark": 62
+  },
+  {
+    "gradebook": 39,
+    "surname": "Snider",
+    "avarageMark": 37
+  },
+  {
+    "gradebook": 40,
+    "surname": "Goff",
+    "avarageMark": 8
+  },
+  {
+    "gradebook": 41,
+    "surname": "Castaneda",
+    "avarageMark": 46
+  },
+  {
+    "gradebook": 42,
+    "surname": "James",
+    "avarageMark": 93
+  },
+  {
+    "gradebook": 43,
+    "surname": "Adkins",
+    "avarageMark": 25
+  },
+  {
+    "gradebook": 44,
+    "surname": "Huber",
+    "avarageMark": 22
+  },
+  {
+    "gradebook": 45,
+    "surname": "Oneal",
+    "avarageMark": 61
+  },
+  {
+    "gradebook": 46,
+    "surname": "Patel",
+    "avarageMark": 18
+  },
+  {
+    "gradebook": 47,
+    "surname": "Mccarthy",
+    "avarageMark": 34
+  },
+  {
+    "gradebook": 48,
+    "surname": "Salazar",
+    "avarageMark": 100
+  },
+  {
+    "gradebook": 49,
+    "surname": "Erickson",
+    "avarageMark": 68
+  },
+  {
+    "gradebook": 50,
+    "surname": "Carter",
+    "avarageMark": 63
+  },
+  {
+    "gradebook": 51,
+    "surname": "Burton",
+    "avarageMark": 22
+  },
+  {
+    "gradebook": 52,
+    "surname": "Boone",
+    "avarageMark": 63
+  },
+  {
+    "gradebook": 53,
+    "surname": "Mosley",
+    "avarageMark": 82
+  },
+  {
+    "gradebook": 54,
+    "surname": "Mcgowan",
+    "avarageMark": 37
+  },
+  {
+    "gradebook": 55,
+    "surname": "Bishop",
+    "avarageMark": 21
+  },
+  {
+    "gradebook": 56,
+    "surname": "Jacobs",
+    "avarageMark": 3
+  },
+  {
+    "gradebook": 57,
+    "surname": "Wall",
+    "avarageMark": 11
+  },
+  {
+    "gradebook": 58,
+    "surname": "Orr",
+    "avarageMark": 70
+  },
+  {
+    "gradebook": 59,
+    "surname": "Perry",
+    "avarageMark": 43
+  },
+  {
+    "gradebook": 60,
+    "surname": "Richard",
+    "avarageMark": 11
+  },
+  {
+    "gradebook": 61,
+    "surname": "Lane",
+    "avarageMark": 59
+  },
+  {
+    "gradebook": 62,
+    "surname": "Mcdowell",
+    "avarageMark": 32
+  },
+  {
+    "gradebook": 63,
+    "surname": "Holland",
+    "avarageMark": 33
+  },
+  {
+    "gradebook": 64,
+    "surname": "Vargas",
+    "avarageMark": 72
+  },
+  {
+    "gradebook": 65,
+    "surname": "Delaney",
+    "avarageMark": 16
+  },
+  {
+    "gradebook": 66,
+    "surname": "Fields",
+    "avarageMark": 97
+  },
+  {
+    "gradebook": 67,
+    "surname": "Allen",
+    "avarageMark": 83
+  },
+  {
+    "gradebook": 68,
+    "surname": "Osborn",
+    "avarageMark": 12
+  },
+  {
+    "gradebook": 69,
+    "surname": "Oneil",
+    "avarageMark": 40
+  },
+  {
+    "gradebook": 70,
+    "surname": "Le",
+    "avarageMark": 94
+  },
+  {
+    "gradebook": 71,
+    "surname": "Noel",
+    "avarageMark": 99
+  },
+  {
+    "gradebook": 72,
+    "surname": "Mcknight",
+    "avarageMark": 66
+  },
+  {
+    "gradebook": 73,
+    "surname": "Jordan",
+    "avarageMark": 83
+  },
+  {
+    "gradebook": 74,
+    "surname": "Mathis",
+    "avarageMark": 43
+  },
+  {
+    "gradebook": 75,
+    "surname": "Powell",
+    "avarageMark": 67
+  },
+  {
+    "gradebook": 76,
+    "surname": "Higgins",
+    "avarageMark": 49
+  },
+  {
+    "gradebook": 77,
+    "surname": "Lott",
+    "avarageMark": 74
+  },
+  {
+    "gradebook": 78,
+    "surname": "Greer",
+    "avarageMark": 84
+  },
+  {
+    "gradebook": 79,
+    "surname": "Aguirre",
+    "avarageMark": 95
+  },
+  {
+    "gradebook": 80,
+    "surname": "Gibson",
+    "avarageMark": 24
+  },
+  {
+    "gradebook": 81,
+    "surname": "Scott",
+    "avarageMark": 13
+  },
+  {
+    "gradebook": 82,
+    "surname": "Guy",
+    "avarageMark": 19
+  },
+  {
+    "gradebook": 83,
+    "surname": "Park",
+    "avarageMark": 8
+  },
+  {
+    "gradebook": 84,
+    "surname": "Ratliff",
+    "avarageMark": 5
+  },
+  {
+    "gradebook": 85,
+    "surname": "Rutledge",
+    "avarageMark": 29
+  },
+  {
+    "gradebook": 86,
+    "surname": "Davenport",
+    "avarageMark": 74
+  },
+  {
+    "gradebook": 87,
+    "surname": "Craft",
+    "avarageMark": 33
+  },
+  {
+    "gradebook": 88,
+    "surname": "Acosta",
+    "avarageMark": 56
+  },
+  {
+    "gradebook": 89,
+    "surname": "Cummings",
+    "avarageMark": 16
+  },
+  {
+    "gradebook": 90,
+    "surname": "Crosby",
+    "avarageMark": 62
+  },
+  {
+    "gradebook": 91,
+    "surname": "Meyer",
+    "avarageMark": 17
+  },
+  {
+    "gradebook": 92,
+    "surname": "Schwartz",
+    "avarageMark": 46
+  },
+  {
+    "gradebook": 93,
+    "surname": "Johnson",
+    "avarageMark": 98
+  },
+  {
+    "gradebook": 94,
+    "surname": "Allison",
+    "avarageMark": 39
+  },
+  {
+    "gradebook": 95,
+    "surname": "Moon",
+    "avarageMark": 35
+  },
+  {
+    "gradebook": 96,
+    "surname": "Ruiz",
+    "avarageMark": 57
+  },
+  {
+    "gradebook": 97,
+    "surname": "Shepard",
+    "avarageMark": 85
+  },
+  {
+    "gradebook": 98,
+    "surname": "Emerson",
+    "avarageMark": 68
+  },
+  {
+    "gradebook": 99,
+    "surname": "Duffy",
+    "avarageMark": 69
+  },
+  {
+    "gradebook": 100,
+    "surname": "Diaz",
+    "avarageMark": 37
+  },
+  {
+    "gradebook": 101,
+    "surname": "Peters",
+    "avarageMark": 63
+  },
+  {
+    "gradebook": 102,
+    "surname": "Macias",
+    "avarageMark": 65
+  },
+  {
+    "gradebook": 103,
+    "surname": "Woods",
+    "avarageMark": 2
+  },
+  {
+    "gradebook": 104,
+    "surname": "Simon",
+    "avarageMark": 73
+  },
+  {
+    "gradebook": 105,
+    "surname": "Oliver",
+    "avarageMark": 32
+  },
+  {
+    "gradebook": 106,
+    "surname": "Bradshaw",
+    "avarageMark": 26
+  },
+  {
+    "gradebook": 107,
+    "surname": "Murray",
+    "avarageMark": 36
+  },
+  {
+    "gradebook": 108,
+    "surname": "Ellis",
+    "avarageMark": 48
+  },
+  {
+    "gradebook": 109,
+    "surname": "Pace",
+    "avarageMark": 57
+  },
+  {
+    "gradebook": 110,
+    "surname": "Wilcox",
+    "avarageMark": 2
+  },
+  {
+    "gradebook": 111,
+    "surname": "Key",
+    "avarageMark": 3
+  },
+  {
+    "gradebook": 112,
+    "surname": "Powers",
+    "avarageMark": 98
+  },
+  {
+    "gradebook": 113,
+    "surname": "Lopez",
+    "avarageMark": 64
+  },
+  {
+    "gradebook": 114,
+    "surname": "Terrell",
+    "avarageMark": 54
+  },
+  {
+    "gradebook": 115,
+    "surname": "Roy",
+    "avarageMark": 30
+  },
+  {
+    "gradebook": 116,
+    "surname": "Rosario",
+    "avarageMark": 62
+  },
+  {
+    "gradebook": 117,
+    "surname": "Parks",
+    "avarageMark": 72
+  },
+  {
+    "gradebook": 118,
+    "surname": "Pitts",
+    "avarageMark": 90
+  },
+  {
+    "gradebook": 119,
+    "surname": "Reeves",
+    "avarageMark": 31
+  },
+  {
+    "gradebook": 120,
+    "surname": "Mcneil",
+    "avarageMark": 54
+  },
+  {
+    "gradebook": 121,
+    "surname": "Watts",
+    "avarageMark": 56
+  },
+  {
+    "gradebook": 122,
+    "surname": "Hess",
+    "avarageMark": 11
+  },
+  {
+    "gradebook": 123,
+    "surname": "Reese",
+    "avarageMark": 99
+  },
+  {
+    "gradebook": 124,
+    "surname": "Blackburn",
+    "avarageMark": 4
+  },
+  {
+    "gradebook": 125,
+    "surname": "Frazier",
+    "avarageMark": 30
+  },
+  {
+    "gradebook": 126,
+    "surname": "Vang",
+    "avarageMark": 22
+  },
+  {
+    "gradebook": 127,
+    "surname": "Bryan",
+    "avarageMark": 98
+  },
+  {
+    "gradebook": 128,
+    "surname": "Reyes",
+    "avarageMark": 47
+  },
+  {
+    "gradebook": 129,
+    "surname": "Whitfield",
+    "avarageMark": 63
+  },
+  {
+    "gradebook": 130,
+    "surname": "Huffman",
+    "avarageMark": 36
+  },
+  {
+    "gradebook": 131,
+    "surname": "Flowers",
+    "avarageMark": 32
+  },
+  {
+    "gradebook": 132,
+    "surname": "Vance",
+    "avarageMark": 99
+  },
+  {
+    "gradebook": 133,
+    "surname": "Garcia",
+    "avarageMark": 27
+  },
+  {
+    "gradebook": 134,
+    "surname": "Hayden",
+    "avarageMark": 4
+  },
+  {
+    "gradebook": 135,
+    "surname": "Stevenson",
+    "avarageMark": 41
+  },
+  {
+    "gradebook": 136,
+    "surname": "Saunders",
+    "avarageMark": 33
+  },
+  {
+    "gradebook": 137,
+    "surname": "Harvey",
+    "avarageMark": 23
+  },
+  {
+    "gradebook": 138,
+    "surname": "Foley",
+    "avarageMark": 74
+  },
+  {
+    "gradebook": 139,
+    "surname": "Holcomb",
+    "avarageMark": 4
+  },
+  {
+    "gradebook": 140,
+    "surname": "Little",
+    "avarageMark": 63
+  },
+  {
+    "gradebook": 141,
+    "surname": "Hahn",
+    "avarageMark": 22
+  },
+  {
+    "gradebook": 142,
+    "surname": "Kirby",
+    "avarageMark": 49
+  },
+  {
+    "gradebook": 143,
+    "surname": "Torres",
+    "avarageMark": 30
+  },
+  {
+    "gradebook": 144,
+    "surname": "Hutchinson",
+    "avarageMark": 10
+  },
+  {
+    "gradebook": 145,
+    "surname": "Hanson",
+    "avarageMark": 33
+  },
+  {
+    "gradebook": 146,
+    "surname": "Mendez",
+    "avarageMark": 70
+  },
+  {
+    "gradebook": 147,
+    "surname": "Pratt",
+    "avarageMark": 57
+  },
+  {
+    "gradebook": 148,
+    "surname": "Buckley",
+    "avarageMark": 74
+  },
+  {
+    "gradebook": 149,
+    "surname": "Bailey",
+    "avarageMark": 42
+  },
+  {
+    "gradebook": 150,
+    "surname": "Mcmillan",
+    "avarageMark": 1
+  },
+  {
+    "gradebook": 151,
+    "surname": "Graves",
+    "avarageMark": 99
+  },
+  {
+    "gradebook": 152,
+    "surname": "Andrews",
+    "avarageMark": 79
+  },
+  {
+    "gradebook": 153,
+    "surname": "Fox",
+    "avarageMark": 43
+  },
+  {
+    "gradebook": 154,
+    "surname": "Mayer",
+    "avarageMark": 76
+  },
+  {
+    "gradebook": 155,
+    "surname": "Chase",
+    "avarageMark": 24
+  },
+  {
+    "gradebook": 156,
+    "surname": "Perez",
+    "avarageMark": 68
+  },
+  {
+    "gradebook": 157,
+    "surname": "Kinney",
+    "avarageMark": 7
+  },
+  {
+    "gradebook": 158,
+    "surname": "Morales",
+    "avarageMark": 72
+  },
+  {
+    "gradebook": 159,
+    "surname": "Waters",
+    "avarageMark": 30
+  },
+  {
+    "gradebook": 160,
+    "surname": "Farrell",
+    "avarageMark": 3
+  },
+  {
+    "gradebook": 161,
+    "surname": "House",
+    "avarageMark": 72
+  },
+  {
+    "gradebook": 162,
+    "surname": "Webster",
+    "avarageMark": 43
+  },
+  {
+    "gradebook": 163,
+    "surname": "Martin",
+    "avarageMark": 21
+  },
+  {
+    "gradebook": 164,
+    "surname": "Dejesus",
+    "avarageMark": 4
+  },
+  {
+    "gradebook": 165,
+    "surname": "Baldwin",
+    "avarageMark": 77
+  },
+  {
+    "gradebook": 166,
+    "surname": "Hines",
+    "avarageMark": 51
+  },
+  {
+    "gradebook": 167,
+    "surname": "Duran",
+    "avarageMark": 17
+  },
+  {
+    "gradebook": 168,
+    "surname": "Navarro",
+    "avarageMark": 22
+  },
+  {
+    "gradebook": 169,
+    "surname": "Clayton",
+    "avarageMark": 54
+  },
+  {
+    "gradebook": 170,
+    "surname": "Mcfadden",
+    "avarageMark": 54
+  },
+  {
+    "gradebook": 171,
+    "surname": "Cannon",
+    "avarageMark": 45
+  },
+  {
+    "gradebook": 172,
+    "surname": "Berger",
+    "avarageMark": 68
+  },
+  {
+    "gradebook": 173,
+    "surname": "Strickland",
+    "avarageMark": 77
+  },
+  {
+    "gradebook": 174,
+    "surname": "Wyatt",
+    "avarageMark": 13
+  },
+  {
+    "gradebook": 175,
+    "surname": "Baker",
+    "avarageMark": 92
+  },
+  {
+    "gradebook": 176,
+    "surname": "Roberts",
+    "avarageMark": 16
+  },
+  {
+    "gradebook": 177,
+    "surname": "Hendricks",
+    "avarageMark": 72
+  },
+  {
+    "gradebook": 178,
+    "surname": "Bryant",
+    "avarageMark": 55
+  },
+  {
+    "gradebook": 179,
+    "surname": "Rose",
+    "avarageMark": 60
+  },
+  {
+    "gradebook": 180,
+    "surname": "Baird",
+    "avarageMark": 5
+  },
+  {
+    "gradebook": 181,
+    "surname": "Hinton",
+    "avarageMark": 53
+  },
+  {
+    "gradebook": 182,
+    "surname": "Lloyd",
+    "avarageMark": 62
+  },
+  {
+    "gradebook": 183,
+    "surname": "Thompson",
+    "avarageMark": 20
+  },
+  {
+    "gradebook": 184,
+    "surname": "Contreras",
+    "avarageMark": 93
+  },
+  {
+    "gradebook": 185,
+    "surname": "Sharp",
+    "avarageMark": 80
+  },
+  {
+    "gradebook": 186,
+    "surname": "Ortiz",
+    "avarageMark": 37
+  },
+  {
+    "gradebook": 187,
+    "surname": "Delgado",
+    "avarageMark": 54
+  },
+  {
+    "gradebook": 188,
+    "surname": "Cantrell",
+    "avarageMark": 54
+  },
+  {
+    "gradebook": 189,
+    "surname": "Pittman",
+    "avarageMark": 97
+  },
+  {
+    "gradebook": 190,
+    "surname": "Cunningham",
+    "avarageMark": 75
+  },
+  {
+    "gradebook": 191,
+    "surname": "Craig",
+    "avarageMark": 47
+  },
+  {
+    "gradebook": 192,
+    "surname": "Ashley",
+    "avarageMark": 72
+  },
+  {
+    "gradebook": 193,
+    "surname": "Camacho",
+    "avarageMark": 68
+  },
+  {
+    "gradebook": 194,
+    "surname": "Hale",
+    "avarageMark": 67
+  },
+  {
+    "gradebook": 195,
+    "surname": "Welch",
+    "avarageMark": 83
+  },
+  {
+    "gradebook": 196,
+    "surname": "Monroe",
+    "avarageMark": 40
+  },
+  {
+    "gradebook": 197,
+    "surname": "Bell",
+    "avarageMark": 4
+  },
+  {
+    "gradebook": 198,
+    "surname": "Goodman",
+    "avarageMark": 11
+  },
+  {
+    "gradebook": 199,
+    "surname": "Christensen",
+    "avarageMark": 1
+  },
+  {
+    "gradebook": 200,
+    "surname": "May",
+    "avarageMark": 59
+  },
+  {
+    "gradebook": 201,
+    "surname": "Howard",
+    "avarageMark": 69
+  },
+  {
+    "gradebook": 202,
+    "surname": "Kirk",
+    "avarageMark": 19
+  },
+  {
+    "gradebook": 203,
+    "surname": "Moran",
+    "avarageMark": 96
+  },
+  {
+    "gradebook": 204,
+    "surname": "Blevins",
+    "avarageMark": 85
+  },
+  {
+    "gradebook": 205,
+    "surname": "Murphy",
+    "avarageMark": 95
+  },
+  {
+    "gradebook": 206,
+    "surname": "Mathews",
+    "avarageMark": 65
+  },
+  {
+    "gradebook": 207,
+    "surname": "Anderson",
+    "avarageMark": 89
+  },
+  {
+    "gradebook": 208,
+    "surname": "Fleming",
+    "avarageMark": 100
+  },
+  {
+    "gradebook": 209,
+    "surname": "Cook",
+    "avarageMark": 22
+  },
+  {
+    "gradebook": 210,
+    "surname": "Ellison",
+    "avarageMark": 55
+  },
+  {
+    "gradebook": 211,
+    "surname": "Petersen",
+    "avarageMark": 67
+  },
+  {
+    "gradebook": 212,
+    "surname": "Hartman",
+    "avarageMark": 80
+  },
+  {
+    "gradebook": 213,
+    "surname": "Shepherd",
+    "avarageMark": 84
+  },
+  {
+    "gradebook": 214,
+    "surname": "Washington",
+    "avarageMark": 85
+  },
+  {
+    "gradebook": 215,
+    "surname": "Acevedo",
+    "avarageMark": 60
+  },
+  {
+    "gradebook": 216,
+    "surname": "Pennington",
+    "avarageMark": 47
+  },
+  {
+    "gradebook": 217,
+    "surname": "Cain",
+    "avarageMark": 32
+  },
+  {
+    "gradebook": 218,
+    "surname": "Gomez",
+    "avarageMark": 15
+  },
+  {
+    "gradebook": 219,
+    "surname": "Hampton",
+    "avarageMark": 16
+  },
+  {
+    "gradebook": 220,
+    "surname": "Hickman",
+    "avarageMark": 3
+  },
+  {
+    "gradebook": 221,
+    "surname": "Ross",
+    "avarageMark": 88
+  },
+  {
+    "gradebook": 222,
+    "surname": "Flynn",
+    "avarageMark": 34
+  },
+  {
+    "gradebook": 223,
+    "surname": "Sawyer",
+    "avarageMark": 21
+  },
+  {
+    "gradebook": 224,
+    "surname": "Dotson",
+    "avarageMark": 84
+  },
+  {
+    "gradebook": 225,
+    "surname": "Lambert",
+    "avarageMark": 78
+  },
+  {
+    "gradebook": 226,
+    "surname": "Sampson",
+    "avarageMark": 63
+  },
+  {
+    "gradebook": 227,
+    "surname": "Fuentes",
+    "avarageMark": 62
+  },
+  {
+    "gradebook": 228,
+    "surname": "Gates",
+    "avarageMark": 82
+  },
+  {
+    "gradebook": 229,
+    "surname": "Neal",
+    "avarageMark": 97
+  },
+  {
+    "gradebook": 230,
+    "surname": "English",
+    "avarageMark": 49
+  },
+  {
+    "gradebook": 231,
+    "surname": "Stanton",
+    "avarageMark": 88
+  },
+  {
+    "gradebook": 232,
+    "surname": "Galloway",
+    "avarageMark": 92
+  },
+  {
+    "gradebook": 233,
+    "surname": "Schroeder",
+    "avarageMark": 97
+  },
+  {
+    "gradebook": 234,
+    "surname": "Gross",
+    "avarageMark": 76
+  },
+  {
+    "gradebook": 235,
+    "surname": "Battle",
+    "avarageMark": 13
+  },
+  {
+    "gradebook": 236,
+    "surname": "Mcintyre",
+    "avarageMark": 97
+  },
+  {
+    "gradebook": 237,
+    "surname": "Ingram",
+    "avarageMark": 28
+  },
+  {
+    "gradebook": 238,
+    "surname": "Lindsay",
+    "avarageMark": 70
+  },
+  {
+    "gradebook": 239,
+    "surname": "Bass",
+    "avarageMark": 93
+  },
+  {
+    "gradebook": 240,
+    "surname": "Marsh",
+    "avarageMark": 13
+  },
+  {
+    "gradebook": 241,
+    "surname": "Mercer",
+    "avarageMark": 95
+  },
+  {
+    "gradebook": 242,
+    "surname": "Mccray",
+    "avarageMark": 80
+  },
+  {
+    "gradebook": 243,
+    "surname": "Willis",
+    "avarageMark": 55
+  },
+  {
+    "gradebook": 244,
+    "surname": "Dixon",
+    "avarageMark": 73
+  },
+  {
+    "gradebook": 245,
+    "surname": "Forbes",
+    "avarageMark": 23
+  },
+  {
+    "gradebook": 246,
+    "surname": "Suarez",
+    "avarageMark": 17
+  },
+  {
+    "gradebook": 247,
+    "surname": "Velez",
+    "avarageMark": 33
+  },
+  {
+    "gradebook": 248,
+    "surname": "Rowe",
+    "avarageMark": 72
+  },
+  {
+    "gradebook": 249,
+    "surname": "Conley",
+    "avarageMark": 60
+  },
+  {
+    "gradebook": 250,
+    "surname": "Sanders",
+    "avarageMark": 82
+  },
+  {
+    "gradebook": 251,
+    "surname": "Herman",
+    "avarageMark": 100
+  },
+  {
+    "gradebook": 252,
+    "surname": "Leonard",
+    "avarageMark": 100
+  },
+  {
+    "gradebook": 253,
+    "surname": "Fowler",
+    "avarageMark": 71
+  },
+  {
+    "gradebook": 254,
+    "surname": "Michael",
+    "avarageMark": 73
+  },
+  {
+    "gradebook": 255,
+    "surname": "Edwards",
+    "avarageMark": 49
+  },
+  {
+    "gradebook": 256,
+    "surname": "Guzman",
+    "avarageMark": 71
+  },
+  {
+    "gradebook": 257,
+    "surname": "Yates",
+    "avarageMark": 86
+  },
+  {
+    "gradebook": 258,
+    "surname": "Dale",
+    "avarageMark": 91
+  },
+  {
+    "gradebook": 259,
+    "surname": "Stephens",
+    "avarageMark": 16
+  },
+  {
+    "gradebook": 260,
+    "surname": "Melendez",
+    "avarageMark": 34
+  },
+  {
+    "gradebook": 261,
+    "surname": "Russell",
+    "avarageMark": 21
+  },
+  {
+    "gradebook": 262,
+    "surname": "Lee",
+    "avarageMark": 12
+  },
+  {
+    "gradebook": 263,
+    "surname": "Booth",
+    "avarageMark": 77
+  },
+  {
+    "gradebook": 264,
+    "surname": "Clark",
+    "avarageMark": 63
+  },
+  {
+    "gradebook": 265,
+    "surname": "Roach",
+    "avarageMark": 34
+  },
+  {
+    "gradebook": 266,
+    "surname": "Chandler",
+    "avarageMark": 20
+  },
+  {
+    "gradebook": 267,
+    "surname": "Brennan",
+    "avarageMark": 72
+  },
+  {
+    "gradebook": 268,
+    "surname": "Alston",
+    "avarageMark": 60
+  },
+  {
+    "gradebook": 269,
+    "surname": "Barton",
+    "avarageMark": 39
+  },
+  {
+    "gradebook": 270,
+    "surname": "Beach",
+    "avarageMark": 39
+  },
+  {
+    "gradebook": 271,
+    "surname": "Parsons",
+    "avarageMark": 18
+  },
+  {
+    "gradebook": 272,
+    "surname": "Puckett",
+    "avarageMark": 5
+  },
+  {
+    "gradebook": 273,
+    "surname": "Knapp",
+    "avarageMark": 55
+  },
+  {
+    "gradebook": 274,
+    "surname": "Evans",
+    "avarageMark": 1
+  },
+  {
+    "gradebook": 275,
+    "surname": "Singleton",
+    "avarageMark": 83
+  },
+  {
+    "gradebook": 276,
+    "surname": "Langley",
+    "avarageMark": 29
+  },
+  {
+    "gradebook": 277,
+    "surname": "Levy",
+    "avarageMark": 48
+  },
+  {
+    "gradebook": 278,
+    "surname": "Warner",
+    "avarageMark": 60
+  },
+  {
+    "gradebook": 279,
+    "surname": "Barlow",
+    "avarageMark": 51
+  },
+  {
+    "gradebook": 280,
+    "surname": "Lamb",
+    "avarageMark": 44
+  },
+  {
+    "gradebook": 281,
+    "surname": "Kane",
+    "avarageMark": 97
+  },
+  {
+    "gradebook": 282,
+    "surname": "Wheeler",
+    "avarageMark": 79
+  },
+  {
+    "gradebook": 283,
+    "surname": "Snow",
+    "avarageMark": 3
+  },
+  {
+    "gradebook": 284,
+    "surname": "Palmer",
+    "avarageMark": 16
+  },
+  {
+    "gradebook": 285,
+    "surname": "Knowles",
+    "avarageMark": 91
+  },
+  {
+    "gradebook": 286,
+    "surname": "Johnston",
+    "avarageMark": 43
+  },
+  {
+    "gradebook": 287,
+    "surname": "Mendoza",
+    "avarageMark": 37
+  },
+  {
+    "gradebook": 288,
+    "surname": "Tanner",
+    "avarageMark": 16
+  },
+  {
+    "gradebook": 289,
+    "surname": "Fuller",
+    "avarageMark": 18
+  },
+  {
+    "gradebook": 290,
+    "surname": "Munoz",
+    "avarageMark": 95
+  },
+  {
+    "gradebook": 291,
+    "surname": "Stone",
+    "avarageMark": 84
+  },
+  {
+    "gradebook": 292,
+    "surname": "Trevino",
+    "avarageMark": 3
+  },
+  {
+    "gradebook": 293,
+    "surname": "Kim",
+    "avarageMark": 91
+  },
+  {
+    "gradebook": 294,
+    "surname": "Wynn",
+    "avarageMark": 15
+  },
+  {
+    "gradebook": 295,
+    "surname": "French",
+    "avarageMark": 70
+  },
+  {
+    "gradebook": 296,
+    "surname": "Fisher",
+    "avarageMark": 46
+  },
+  {
+    "gradebook": 297,
+    "surname": "Swanson",
+    "avarageMark": 74
+  },
+  {
+    "gradebook": 298,
+    "surname": "Sims",
+    "avarageMark": 7
+  },
+  {
+    "gradebook": 299,
+    "surname": "Mcpherson",
+    "avarageMark": 23
+  },
+  {
+    "gradebook": 300,
+    "surname": "Charles",
+    "avarageMark": 48
+  },
+  {
+    "gradebook": 301,
+    "surname": "Townsend",
+    "avarageMark": 56
+  },
+  {
+    "gradebook": 302,
+    "surname": "Atkins",
+    "avarageMark": 78
+  },
+  {
+    "gradebook": 303,
+    "surname": "Mckinney",
+    "avarageMark": 21
+  },
+  {
+    "gradebook": 304,
+    "surname": "Valdez",
+    "avarageMark": 51
+  },
+  {
+    "gradebook": 305,
+    "surname": "Molina",
+    "avarageMark": 32
+  },
+  {
+    "gradebook": 306,
+    "surname": "Sandoval",
+    "avarageMark": 10
+  },
+  {
+    "gradebook": 307,
+    "surname": "Burris",
+    "avarageMark": 19
+  },
+  {
+    "gradebook": 308,
+    "surname": "Wagner",
+    "avarageMark": 48
+  },
+  {
+    "gradebook": 309,
+    "surname": "Bartlett",
+    "avarageMark": 64
+  },
+  {
+    "gradebook": 310,
+    "surname": "Green",
+    "avarageMark": 60
+  },
+  {
+    "gradebook": 311,
+    "surname": "Robertson",
+    "avarageMark": 84
+  },
+  {
+    "gradebook": 312,
+    "surname": "Baxter",
+    "avarageMark": 82
+  },
+  {
+    "gradebook": 313,
+    "surname": "Mejia",
+    "avarageMark": 10
+  },
+  {
+    "gradebook": 314,
+    "surname": "Richards",
+    "avarageMark": 51
+  },
+  {
+    "gradebook": 315,
+    "surname": "Hoffman",
+    "avarageMark": 49
+  },
+  {
+    "gradebook": 316,
+    "surname": "Salinas",
+    "avarageMark": 1
+  },
+  {
+    "gradebook": 317,
+    "surname": "Byers",
+    "avarageMark": 47
+  },
+  {
+    "gradebook": 318,
+    "surname": "Hendrix",
+    "avarageMark": 95
+  },
+  {
+    "gradebook": 319,
+    "surname": "Keith",
+    "avarageMark": 35
+  },
+  {
+    "gradebook": 320,
+    "surname": "Bentley",
+    "avarageMark": 50
+  },
+  {
+    "gradebook": 321,
+    "surname": "Miles",
+    "avarageMark": 3
+  },
+  {
+    "gradebook": 322,
+    "surname": "Mcbride",
+    "avarageMark": 38
+  },
+  {
+    "gradebook": 323,
+    "surname": "Sparks",
+    "avarageMark": 65
+  },
+  {
+    "gradebook": 324,
+    "surname": "Ford",
+    "avarageMark": 65
+  },
+  {
+    "gradebook": 325,
+    "surname": "Waller",
+    "avarageMark": 44
+  },
+  {
+    "gradebook": 326,
+    "surname": "Pena",
+    "avarageMark": 10
+  },
+  {
+    "gradebook": 327,
+    "surname": "Landry",
+    "avarageMark": 8
+  },
+  {
+    "gradebook": 328,
+    "surname": "Malone",
+    "avarageMark": 74
+  },
+  {
+    "gradebook": 329,
+    "surname": "Gentry",
+    "avarageMark": 53
+  },
+  {
+    "gradebook": 330,
+    "surname": "Rowland",
+    "avarageMark": 44
+  },
+  {
+    "gradebook": 331,
+    "surname": "Spencer",
+    "avarageMark": 13
+  },
+  {
+    "gradebook": 332,
+    "surname": "Dillard",
+    "avarageMark": 47
+  },
+  {
+    "gradebook": 333,
+    "surname": "Zimmerman",
+    "avarageMark": 23
+  },
+  {
+    "gradebook": 334,
+    "surname": "Blair",
+    "avarageMark": 91
+  },
+  {
+    "gradebook": 335,
+    "surname": "Shaffer",
+    "avarageMark": 16
+  },
+  {
+    "gradebook": 336,
+    "surname": "Farmer",
+    "avarageMark": 35
+  },
+  {
+    "gradebook": 337,
+    "surname": "Guerrero",
+    "avarageMark": 44
+  },
+  {
+    "gradebook": 338,
+    "surname": "Vazquez",
+    "avarageMark": 66
+  },
+  {
+    "gradebook": 339,
+    "surname": "Leblanc",
+    "avarageMark": 68
+  },
+  {
+    "gradebook": 340,
+    "surname": "Branch",
+    "avarageMark": 60
+  },
+  {
+    "gradebook": 341,
+    "surname": "Carney",
+    "avarageMark": 86
+  },
+  {
+    "gradebook": 342,
+    "surname": "Travis",
+    "avarageMark": 91
+  },
+  {
+    "gradebook": 343,
+    "surname": "Vaughan",
+    "avarageMark": 21
+  },
+  {
+    "gradebook": 344,
+    "surname": "Simpson",
+    "avarageMark": 90
+  },
+  {
+    "gradebook": 345,
+    "surname": "Banks",
+    "avarageMark": 25
+  },
+  {
+    "gradebook": 346,
+    "surname": "Cooley",
+    "avarageMark": 65
+  },
+  {
+    "gradebook": 347,
+    "surname": "Walters",
+    "avarageMark": 37
+  },
+  {
+    "gradebook": 348,
+    "surname": "Frederick",
+    "avarageMark": 61
+  },
+  {
+    "gradebook": 349,
+    "surname": "Nguyen",
+    "avarageMark": 88
+  },
+  {
+    "gradebook": 350,
+    "surname": "Cruz",
+    "avarageMark": 59
+  },
+  {
+    "gradebook": 351,
+    "surname": "Ferguson",
+    "avarageMark": 24
+  },
+  {
+    "gradebook": 352,
+    "surname": "Wells",
+    "avarageMark": 2
+  },
+  {
+    "gradebook": 353,
+    "surname": "Ramos",
+    "avarageMark": 79
+  },
+  {
+    "gradebook": 354,
+    "surname": "Mckenzie",
+    "avarageMark": 32
+  },
+  {
+    "gradebook": 355,
+    "surname": "Lara",
+    "avarageMark": 19
+  },
+  {
+    "gradebook": 356,
+    "surname": "Robinson",
+    "avarageMark": 94
+  },
+  {
+    "gradebook": 357,
+    "surname": "Duke",
+    "avarageMark": 8
+  },
+  {
+    "gradebook": 358,
+    "surname": "Harrell",
+    "avarageMark": 65
+  },
+  {
+    "gradebook": 359,
+    "surname": "Porter",
+    "avarageMark": 100
+  },
+  {
+    "gradebook": 360,
+    "surname": "Donovan",
+    "avarageMark": 60
+  },
+  {
+    "gradebook": 361,
+    "surname": "Beasley",
+    "avarageMark": 56
+  },
+  {
+    "gradebook": 362,
+    "surname": "Stafford",
+    "avarageMark": 3
+  },
+  {
+    "gradebook": 363,
+    "surname": "Riggs",
+    "avarageMark": 55
+  },
+  {
+    "gradebook": 364,
+    "surname": "Soto",
+    "avarageMark": 81
+  },
+  {
+    "gradebook": 365,
+    "surname": "Alvarado",
+    "avarageMark": 34
+  },
+  {
+    "gradebook": 366,
+    "surname": "Wiggins",
+    "avarageMark": 28
+  },
+  {
+    "gradebook": 367,
+    "surname": "Figueroa",
+    "avarageMark": 54
+  },
+  {
+    "gradebook": 368,
+    "surname": "Gordon",
+    "avarageMark": 93
+  },
+  {
+    "gradebook": 369,
+    "surname": "Duncan",
+    "avarageMark": 33
+  },
+  {
+    "gradebook": 370,
+    "surname": "Compton",
+    "avarageMark": 37
+  },
+  {
+    "gradebook": 371,
+    "surname": "Beck",
+    "avarageMark": 46
+  },
+  {
+    "gradebook": 372,
+    "surname": "Tillman",
+    "avarageMark": 26
+  },
+  {
+    "gradebook": 373,
+    "surname": "Cabrera",
+    "avarageMark": 58
+  },
+  {
+    "gradebook": 374,
+    "surname": "Stewart",
+    "avarageMark": 53
+  },
+  {
+    "gradebook": 375,
+    "surname": "Thomas",
+    "avarageMark": 55
+  },
+  {
+    "gradebook": 376,
+    "surname": "Drake",
+    "avarageMark": 72
+  },
+  {
+    "gradebook": 377,
+    "surname": "Bullock",
+    "avarageMark": 11
+  },
+  {
+    "gradebook": 378,
+    "surname": "Christian",
+    "avarageMark": 17
+  },
+  {
+    "gradebook": 379,
+    "surname": "Calderon",
+    "avarageMark": 80
+  },
+  {
+    "gradebook": 380,
+    "surname": "Montoya",
+    "avarageMark": 80
+  },
+  {
+    "gradebook": 381,
+    "surname": "Bernard",
+    "avarageMark": 64
+  },
+  {
+    "gradebook": 382,
+    "surname": "Maddox",
+    "avarageMark": 84
+  },
+  {
+    "gradebook": 383,
+    "surname": "Mccullough",
+    "avarageMark": 14
+  },
+  {
+    "gradebook": 384,
+    "surname": "Austin",
+    "avarageMark": 7
+  },
+  {
+    "gradebook": 385,
+    "surname": "Wiley",
+    "avarageMark": 99
+  },
+  {
+    "gradebook": 386,
+    "surname": "Shields",
+    "avarageMark": 10
+  },
+  {
+    "gradebook": 387,
+    "surname": "Bradford",
+    "avarageMark": 39
+  },
+  {
+    "gradebook": 388,
+    "surname": "Weaver",
+    "avarageMark": 10
+  },
+  {
+    "gradebook": 389,
+    "surname": "Taylor",
+    "avarageMark": 42
+  },
+  {
+    "gradebook": 390,
+    "surname": "Long",
+    "avarageMark": 23
+  },
+  {
+    "gradebook": 391,
+    "surname": "Hudson",
+    "avarageMark": 43
+  },
+  {
+    "gradebook": 392,
+    "surname": "Tate",
+    "avarageMark": 77
+  },
+  {
+    "gradebook": 393,
+    "surname": "Dudley",
+    "avarageMark": 75
+  },
+  {
+    "gradebook": 394,
+    "surname": "Rios",
+    "avarageMark": 34
+  },
+  {
+    "gradebook": 395,
+    "surname": "Stephenson",
+    "avarageMark": 52
+  },
+  {
+    "gradebook": 396,
+    "surname": "Barrett",
+    "avarageMark": 84
+  },
+  {
+    "gradebook": 397,
+    "surname": "Foster",
+    "avarageMark": 17
+  },
+  {
+    "gradebook": 398,
+    "surname": "Hicks",
+    "avarageMark": 58
+  },
+  {
+    "gradebook": 399,
+    "surname": "Ballard",
+    "avarageMark": 73
+  },
+  {
+    "gradebook": 400,
+    "surname": "Carver",
+    "avarageMark": 93
+  },
+  {
+    "gradebook": 401,
+    "surname": "Velasquez",
+    "avarageMark": 65
+  },
+  {
+    "gradebook": 402,
+    "surname": "Mercado",
+    "avarageMark": 16
+  },
+  {
+    "gradebook": 403,
+    "surname": "Decker",
+    "avarageMark": 37
+  },
+  {
+    "gradebook": 404,
+    "surname": "Riley",
+    "avarageMark": 12
+  },
+  {
+    "gradebook": 405,
+    "surname": "Woodard",
+    "avarageMark": 22
+  },
+  {
+    "gradebook": 406,
+    "surname": "Williamson",
+    "avarageMark": 29
+  },
+  {
+    "gradebook": 407,
+    "surname": "Leach",
+    "avarageMark": 52
+  },
+  {
+    "gradebook": 408,
+    "surname": "Gilmore",
+    "avarageMark": 94
+  },
+  {
+    "gradebook": 409,
+    "surname": "Holman",
+    "avarageMark": 40
+  },
+  {
+    "gradebook": 410,
+    "surname": "Sykes",
+    "avarageMark": 27
+  },
+  {
+    "gradebook": 411,
+    "surname": "Gregory",
+    "avarageMark": 97
+  },
+  {
+    "gradebook": 412,
+    "surname": "Boyle",
+    "avarageMark": 94
+  },
+  {
+    "gradebook": 413,
+    "surname": "Barnes",
+    "avarageMark": 77
+  },
+  {
+    "gradebook": 414,
+    "surname": "Pollard",
+    "avarageMark": 65
+  },
+  {
+    "gradebook": 415,
+    "surname": "Price",
+    "avarageMark": 86
+  },
+  {
+    "gradebook": 416,
+    "surname": "Todd",
+    "avarageMark": 39
+  },
+  {
+    "gradebook": 417,
+    "surname": "Sherman",
+    "avarageMark": 53
+  },
+  {
+    "gradebook": 418,
+    "surname": "Summers",
+    "avarageMark": 23
+  },
+  {
+    "gradebook": 419,
+    "surname": "White",
+    "avarageMark": 33
+  },
+  {
+    "gradebook": 420,
+    "surname": "Owen",
+    "avarageMark": 67
+  },
+  {
+    "gradebook": 421,
+    "surname": "Schmidt",
+    "avarageMark": 6
+  },
+  {
+    "gradebook": 422,
+    "surname": "Hart",
+    "avarageMark": 16
+  },
+  {
+    "gradebook": 423,
+    "surname": "King",
+    "avarageMark": 73
+  },
+  {
+    "gradebook": 424,
+    "surname": "Benson",
+    "avarageMark": 28
+  },
+  {
+    "gradebook": 425,
+    "surname": "Garrison",
+    "avarageMark": 82
+  },
+  {
+    "gradebook": 426,
+    "surname": "Whitaker",
+    "avarageMark": 72
+  },
+  {
+    "gradebook": 427,
+    "surname": "Howe",
+    "avarageMark": 87
+  },
+  {
+    "gradebook": 428,
+    "surname": "Lawrence",
+    "avarageMark": 72
+  },
+  {
+    "gradebook": 429,
+    "surname": "Meadows",
+    "avarageMark": 79
+  },
+  {
+    "gradebook": 430,
+    "surname": "Larson",
+    "avarageMark": 34
+  },
+  {
+    "gradebook": 431,
+    "surname": "Hunt",
+    "avarageMark": 66
+  },
+  {
+    "gradebook": 432,
+    "surname": "Rocha",
+    "avarageMark": 97
+  },
+  {
+    "gradebook": 433,
+    "surname": "Hawkins",
+    "avarageMark": 54
+  },
+  {
+    "gradebook": 434,
+    "surname": "Greene",
+    "avarageMark": 3
+  },
+  {
+    "gradebook": 435,
+    "surname": "Garner",
+    "avarageMark": 54
+  },
+  {
+    "gradebook": 436,
+    "surname": "Mann",
+    "avarageMark": 28
+  },
+  {
+    "gradebook": 437,
+    "surname": "Griffin",
+    "avarageMark": 7
+  },
+  {
+    "gradebook": 438,
+    "surname": "Ball",
+    "avarageMark": 19
+  },
+  {
+    "gradebook": 439,
+    "surname": "Owens",
+    "avarageMark": 24
+  },
+  {
+    "gradebook": 440,
+    "surname": "Steele",
+    "avarageMark": 67
+  },
+  {
+    "gradebook": 441,
+    "surname": "Hughes",
+    "avarageMark": 37
+  },
+  {
+    "gradebook": 442,
+    "surname": "Flores",
+    "avarageMark": 83
+  },
+  {
+    "gradebook": 443,
+    "surname": "Macdonald",
+    "avarageMark": 74
+  },
+  {
+    "gradebook": 444,
+    "surname": "Carr",
+    "avarageMark": 90
+  },
+  {
+    "gradebook": 445,
+    "surname": "Dodson",
+    "avarageMark": 58
+  },
+  {
+    "gradebook": 446,
+    "surname": "Collins",
+    "avarageMark": 66
+  },
+  {
+    "gradebook": 447,
+    "surname": "Rodriquez",
+    "avarageMark": 54
+  },
+  {
+    "gradebook": 448,
+    "surname": "Robles",
+    "avarageMark": 7
+  },
+  {
+    "gradebook": 449,
+    "surname": "Gilbert",
+    "avarageMark": 33
+  },
+  {
+    "gradebook": 450,
+    "surname": "Conrad",
+    "avarageMark": 37
+  },
+  {
+    "gradebook": 451,
+    "surname": "Anthony",
+    "avarageMark": 50
+  },
+  {
+    "gradebook": 452,
+    "surname": "Pacheco",
+    "avarageMark": 63
+  },
+  {
+    "gradebook": 453,
+    "surname": "Roman",
+    "avarageMark": 89
+  },
+  {
+    "gradebook": 454,
+    "surname": "Avery",
+    "avarageMark": 38
+  },
+  {
+    "gradebook": 455,
+    "surname": "Holmes",
+    "avarageMark": 42
+  },
+  {
+    "gradebook": 456,
+    "surname": "Albert",
+    "avarageMark": 94
+  },
+  {
+    "gradebook": 457,
+    "surname": "Jacobson",
+    "avarageMark": 65
+  },
+  {
+    "gradebook": 458,
+    "surname": "Merritt",
+    "avarageMark": 36
+  },
+  {
+    "gradebook": 459,
+    "surname": "Daugherty",
+    "avarageMark": 89
+  },
+  {
+    "gradebook": 460,
+    "surname": "Dalton",
+    "avarageMark": 25
+  },
+  {
+    "gradebook": 461,
+    "surname": "Fry",
+    "avarageMark": 95
+  },
+  {
+    "gradebook": 462,
+    "surname": "Gallagher",
+    "avarageMark": 97
+  },
+  {
+    "gradebook": 463,
+    "surname": "Mack",
+    "avarageMark": 89
+  },
+  {
+    "gradebook": 464,
+    "surname": "Phelps",
+    "avarageMark": 52
+  },
+  {
+    "gradebook": 465,
+    "surname": "Rojas",
+    "avarageMark": 77
+  },
+  {
+    "gradebook": 466,
+    "surname": "Glenn",
+    "avarageMark": 42
+  },
+  {
+    "gradebook": 467,
+    "surname": "Reed",
+    "avarageMark": 71
+  },
+  {
+    "gradebook": 468,
+    "surname": "Deleon",
+    "avarageMark": 50
+  },
+  {
+    "gradebook": 469,
+    "surname": "Guerra",
+    "avarageMark": 92
+  },
+  {
+    "gradebook": 470,
+    "surname": "Mills",
+    "avarageMark": 62
+  },
+  {
+    "gradebook": 471,
+    "surname": "Ayers",
+    "avarageMark": 90
+  },
+  {
+    "gradebook": 472,
+    "surname": "Browning",
+    "avarageMark": 39
+  },
+  {
+    "gradebook": 473,
+    "surname": "Sanchez",
+    "avarageMark": 40
+  },
+  {
+    "gradebook": 474,
+    "surname": "Mccoy",
+    "avarageMark": 19
+  },
+  {
+    "gradebook": 475,
+    "surname": "Case",
+    "avarageMark": 78
+  },
+  {
+    "gradebook": 476,
+    "surname": "Carroll",
+    "avarageMark": 20
+  },
+  {
+    "gradebook": 477,
+    "surname": "Norman",
+    "avarageMark": 29
+  },
+  {
+    "gradebook": 478,
+    "surname": "Mcdonald",
+    "avarageMark": 14
+  },
+  {
+    "gradebook": 479,
+    "surname": "Petty",
+    "avarageMark": 21
+  },
+  {
+    "gradebook": 480,
+    "surname": "Myers",
+    "avarageMark": 98
+  },
+  {
+    "gradebook": 481,
+    "surname": "Medina",
+    "avarageMark": 90
+  },
+  {
+    "gradebook": 482,
+    "surname": "Daniel",
+    "avarageMark": 53
+  },
+  {
+    "gradebook": 483,
+    "surname": "Chang",
+    "avarageMark": 95
+  },
+  {
+    "gradebook": 484,
+    "surname": "Walls",
+    "avarageMark": 40
+  },
+  {
+    "gradebook": 485,
+    "surname": "Schultz",
+    "avarageMark": 88
+  },
+  {
+    "gradebook": 486,
+    "surname": "Durham",
+    "avarageMark": 63
+  },
+  {
+    "gradebook": 487,
+    "surname": "Bates",
+    "avarageMark": 8
+  },
+  {
+    "gradebook": 488,
+    "surname": "Slater",
+    "avarageMark": 65
+  },
+  {
+    "gradebook": 489,
+    "surname": "Hood",
+    "avarageMark": 21
+  },
+  {
+    "gradebook": 490,
+    "surname": "Hancock",
+    "avarageMark": 43
+  },
+  {
+    "gradebook": 491,
+    "surname": "Mcdaniel",
+    "avarageMark": 9
+  },
+  {
+    "gradebook": 492,
+    "surname": "Sosa",
+    "avarageMark": 72
+  },
+  {
+    "gradebook": 493,
+    "surname": "Delacruz",
+    "avarageMark": 52
+  },
+  {
+    "gradebook": 494,
+    "surname": "Gardner",
+    "avarageMark": 44
+  },
+  {
+    "gradebook": 495,
+    "surname": "David",
+    "avarageMark": 26
+  },
+  {
+    "gradebook": 496,
+    "surname": "Hurley",
+    "avarageMark": 99
+  },
+  {
+    "gradebook": 497,
+    "surname": "Herrera",
+    "avarageMark": 79
+  },
+  {
+    "gradebook": 498,
+    "surname": "Kidd",
+    "avarageMark": 38
+  },
+  {
+    "gradebook": 499,
+    "surname": "Rodgers",
+    "avarageMark": 22
+  },
+  {
+    "gradebook": 500,
+    "surname": "Cooper",
+    "avarageMark": 18
+  },
+  {
+    "gradebook": 501,
+    "surname": "Clarke",
+    "avarageMark": 95
+  },
+  {
+    "gradebook": 502,
+    "surname": "Brock",
+    "avarageMark": 20
+  },
+  {
+    "gradebook": 503,
+    "surname": "Savage",
+    "avarageMark": 100
+  },
+  {
+    "gradebook": 504,
+    "surname": "Carrillo",
+    "avarageMark": 79
+  },
+  {
+    "gradebook": 505,
+    "surname": "Dunlap",
+    "avarageMark": 51
+  },
+  {
+    "gradebook": 506,
+    "surname": "Foreman",
+    "avarageMark": 80
+  },
+  {
+    "gradebook": 507,
+    "surname": "Hall",
+    "avarageMark": 38
+  },
+  {
+    "gradebook": 508,
+    "surname": "Casey",
+    "avarageMark": 45
+  },
+  {
+    "gradebook": 509,
+    "surname": "Ramirez",
+    "avarageMark": 21
+  },
+  {
+    "gradebook": 510,
+    "surname": "Stein",
+    "avarageMark": 19
+  },
+  {
+    "gradebook": 511,
+    "surname": "Bond",
+    "avarageMark": 60
+  },
+  {
+    "gradebook": 512,
+    "surname": "Bridges",
+    "avarageMark": 70
+  },
+  {
+    "gradebook": 513,
+    "surname": "Humphrey",
+    "avarageMark": 8
+  },
+  {
+    "gradebook": 514,
+    "surname": "Buchanan",
+    "avarageMark": 17
+  },
+  {
+    "gradebook": 515,
+    "surname": "Jimenez",
+    "avarageMark": 64
+  },
+  {
+    "gradebook": 516,
+    "surname": "Rasmussen",
+    "avarageMark": 84
+  },
+  {
+    "gradebook": 517,
+    "surname": "Henson",
+    "avarageMark": 57
+  },
+  {
+    "gradebook": 518,
+    "surname": "Harris",
+    "avarageMark": 23
+  },
+  {
+    "gradebook": 519,
+    "surname": "Hammond",
+    "avarageMark": 67
+  },
+  {
+    "gradebook": 520,
+    "surname": "Snyder",
+    "avarageMark": 69
+  },
+  {
+    "gradebook": 521,
+    "surname": "Silva",
+    "avarageMark": 74
+  },
+  {
+    "gradebook": 522,
+    "surname": "Hardy",
+    "avarageMark": 69
+  },
+  {
+    "gradebook": 523,
+    "surname": "Elliott",
+    "avarageMark": 60
+  },
+  {
+    "gradebook": 524,
+    "surname": "Bennett",
+    "avarageMark": 26
+  },
+  {
+    "gradebook": 525,
+    "surname": "Estes",
+    "avarageMark": 34
+  },
+  {
+    "gradebook": 526,
+    "surname": "Kelly",
+    "avarageMark": 91
+  },
+  {
+    "gradebook": 527,
+    "surname": "Patrick",
+    "avarageMark": 84
+  },
+  {
+    "gradebook": 528,
+    "surname": "Richmond",
+    "avarageMark": 100
+  },
+  {
+    "gradebook": 529,
+    "surname": "Graham",
+    "avarageMark": 52
+  },
+  {
+    "gradebook": 530,
+    "surname": "Dominguez",
+    "avarageMark": 45
+  },
+  {
+    "gradebook": 531,
+    "surname": "Stark",
+    "avarageMark": 18
+  },
+  {
+    "gradebook": 532,
+    "surname": "Booker",
+    "avarageMark": 17
+  },
+  {
+    "gradebook": 533,
+    "surname": "Moreno",
+    "avarageMark": 48
+  },
+  {
+    "gradebook": 534,
+    "surname": "Kirkland",
+    "avarageMark": 2
+  },
+  {
+    "gradebook": 535,
+    "surname": "Solis",
+    "avarageMark": 42
+  },
+  {
+    "gradebook": 536,
+    "surname": "Nicholson",
+    "avarageMark": 2
+  },
+  {
+    "gradebook": 537,
+    "surname": "Klein",
+    "avarageMark": 96
+  },
+  {
+    "gradebook": 538,
+    "surname": "Giles",
+    "avarageMark": 93
+  },
+  {
+    "gradebook": 539,
+    "surname": "Ward",
+    "avarageMark": 6
+  },
+  {
+    "gradebook": 540,
+    "surname": "Hayes",
+    "avarageMark": 10
+  },
+  {
+    "gradebook": 541,
+    "surname": "Mooney",
+    "avarageMark": 24
+  },
+  {
+    "gradebook": 542,
+    "surname": "Johns",
+    "avarageMark": 40
+  },
+  {
+    "gradebook": 543,
+    "surname": "Pate",
+    "avarageMark": 16
+  },
+  {
+    "gradebook": 544,
+    "surname": "Stokes",
+    "avarageMark": 18
+  },
+  {
+    "gradebook": 545,
+    "surname": "Padilla",
+    "avarageMark": 54
+  },
+  {
+    "gradebook": 546,
+    "surname": "Velazquez",
+    "avarageMark": 84
+  },
+  {
+    "gradebook": 547,
+    "surname": "Nichols",
+    "avarageMark": 31
+  },
+  {
+    "gradebook": 548,
+    "surname": "Newton",
+    "avarageMark": 26
+  },
+  {
+    "gradebook": 549,
+    "surname": "Lucas",
+    "avarageMark": 39
+  },
+  {
+    "gradebook": 550,
+    "surname": "Britt",
+    "avarageMark": 87
+  },
+  {
+    "gradebook": 551,
+    "surname": "Gray",
+    "avarageMark": 39
+  },
+  {
+    "gradebook": 552,
+    "surname": "Sullivan",
+    "avarageMark": 76
+  },
+  {
+    "gradebook": 553,
+    "surname": "Terry",
+    "avarageMark": 19
+  },
+  {
+    "gradebook": 554,
+    "surname": "Bender",
+    "avarageMark": 50
+  },
+  {
+    "gradebook": 555,
+    "surname": "Hodges",
+    "avarageMark": 64
+  },
+  {
+    "gradebook": 556,
+    "surname": "West",
+    "avarageMark": 19
+  },
+  {
+    "gradebook": 557,
+    "surname": "Herring",
+    "avarageMark": 76
+  },
+  {
+    "gradebook": 558,
+    "surname": "Hester",
+    "avarageMark": 62
+  },
+  {
+    "gradebook": 559,
+    "surname": "Burks",
+    "avarageMark": 40
+  },
+  {
+    "gradebook": 560,
+    "surname": "Woodward",
+    "avarageMark": 42
+  },
+  {
+    "gradebook": 561,
+    "surname": "Mcmahon",
+    "avarageMark": 45
+  },
+  {
+    "gradebook": 562,
+    "surname": "Butler",
+    "avarageMark": 100
+  },
+  {
+    "gradebook": 563,
+    "surname": "Byrd",
+    "avarageMark": 66
+  },
+  {
+    "gradebook": 564,
+    "surname": "Vasquez",
+    "avarageMark": 32
+  },
+  {
+    "gradebook": 565,
+    "surname": "Santos",
+    "avarageMark": 34
+  },
+  {
+    "gradebook": 566,
+    "surname": "Trujillo",
+    "avarageMark": 86
+  },
+  {
+    "gradebook": 567,
+    "surname": "Bean",
+    "avarageMark": 21
+  },
+  {
+    "gradebook": 568,
+    "surname": "Gallegos",
+    "avarageMark": 91
+  },
+  {
+    "gradebook": 569,
+    "surname": "Benton",
+    "avarageMark": 62
+  },
+  {
+    "gradebook": 570,
+    "surname": "Avila",
+    "avarageMark": 87
+  },
+  {
+    "gradebook": 571,
+    "surname": "Lyons",
+    "avarageMark": 63
+  },
+  {
+    "gradebook": 572,
+    "surname": "Barr",
+    "avarageMark": 59
+  },
+  {
+    "gradebook": 573,
+    "surname": "Mullen",
+    "avarageMark": 62
+  },
+  {
+    "gradebook": 574,
+    "surname": "Merrill",
+    "avarageMark": 66
+  },
+  {
+    "gradebook": 575,
+    "surname": "Brady",
+    "avarageMark": 48
+  },
+  {
+    "gradebook": 576,
+    "surname": "Bowen",
+    "avarageMark": 92
+  },
+  {
+    "gradebook": 577,
+    "surname": "Nash",
+    "avarageMark": 34
+  },
+  {
+    "gradebook": 578,
+    "surname": "Adams",
+    "avarageMark": 81
+  },
+  {
+    "gradebook": 579,
+    "surname": "Beard",
+    "avarageMark": 69
+  },
+  {
+    "gradebook": 580,
+    "surname": "Jenkins",
+    "avarageMark": 15
+  },
+  {
+    "gradebook": 581,
+    "surname": "Chavez",
+    "avarageMark": 24
+  },
+  {
+    "gradebook": 582,
+    "surname": "Blake",
+    "avarageMark": 5
+  },
+  {
+    "gradebook": 583,
+    "surname": "Gillespie",
+    "avarageMark": 81
+  },
+  {
+    "gradebook": 584,
+    "surname": "Lancaster",
+    "avarageMark": 98
+  },
+  {
+    "gradebook": 585,
+    "surname": "Rivera",
+    "avarageMark": 41
+  },
+  {
+    "gradebook": 586,
+    "surname": "Robbins",
+    "avarageMark": 62
+  },
+  {
+    "gradebook": 587,
+    "surname": "Burnett",
+    "avarageMark": 5
+  },
+  {
+    "gradebook": 588,
+    "surname": "Mcfarland",
+    "avarageMark": 3
+  },
+  {
+    "gradebook": 589,
+    "surname": "Boyer",
+    "avarageMark": 84
+  },
+  {
+    "gradebook": 590,
+    "surname": "Olsen",
+    "avarageMark": 32
+  },
+  {
+    "gradebook": 591,
+    "surname": "Morton",
+    "avarageMark": 34
+  },
+  {
+    "gradebook": 592,
+    "surname": "Arnold",
+    "avarageMark": 71
+  },
+  {
+    "gradebook": 593,
+    "surname": "Morris",
+    "avarageMark": 73
+  },
+  {
+    "gradebook": 594,
+    "surname": "Crane",
+    "avarageMark": 79
+  },
+  {
+    "gradebook": 595,
+    "surname": "Espinoza",
+    "avarageMark": 16
+  },
+  {
+    "gradebook": 596,
+    "surname": "Franco",
+    "avarageMark": 4
+  },
+  {
+    "gradebook": 597,
+    "surname": "Vincent",
+    "avarageMark": 42
+  },
+  {
+    "gradebook": 598,
+    "surname": "Lester",
+    "avarageMark": 91
+  },
+  {
+    "gradebook": 599,
+    "surname": "Harper",
+    "avarageMark": 80
+  },
+  {
+    "gradebook": 600,
+    "surname": "Solomon",
+    "avarageMark": 33
+  },
+  {
+    "gradebook": 601,
+    "surname": "Carey",
+    "avarageMark": 93
+  },
+  {
+    "gradebook": 602,
+    "surname": "Gonzales",
+    "avarageMark": 89
+  },
+  {
+    "gradebook": 603,
+    "surname": "Dyer",
+    "avarageMark": 60
+  },
+  {
+    "gradebook": 604,
+    "surname": "Pugh",
+    "avarageMark": 88
+  },
+  {
+    "gradebook": 605,
+    "surname": "Newman",
+    "avarageMark": 83
+  },
+  {
+    "gradebook": 606,
+    "surname": "Douglas",
+    "avarageMark": 65
+  },
+  {
+    "gradebook": 607,
+    "surname": "Berg",
+    "avarageMark": 89
+  },
+  {
+    "gradebook": 608,
+    "surname": "Livingston",
+    "avarageMark": 62
+  },
+  {
+    "gradebook": 609,
+    "surname": "Wood",
+    "avarageMark": 51
+  },
+  {
+    "gradebook": 610,
+    "surname": "Abbott",
+    "avarageMark": 62
+  },
+  {
+    "gradebook": 611,
+    "surname": "Reid",
+    "avarageMark": 4
+  },
+  {
+    "gradebook": 612,
+    "surname": "Rush",
+    "avarageMark": 78
+  },
+  {
+    "gradebook": 613,
+    "surname": "Floyd",
+    "avarageMark": 19
+  },
+  {
+    "gradebook": 614,
+    "surname": "Conner",
+    "avarageMark": 93
+  },
+  {
+    "gradebook": 615,
+    "surname": "Sloan",
+    "avarageMark": 87
+  },
+  {
+    "gradebook": 616,
+    "surname": "Barber",
+    "avarageMark": 13
+  },
+  {
+    "gradebook": 617,
+    "surname": "Patterson",
+    "avarageMark": 28
+  },
+  {
+    "gradebook": 618,
+    "surname": "Estrada",
+    "avarageMark": 54
+  },
+  {
+    "gradebook": 619,
+    "surname": "Franklin",
+    "avarageMark": 51
+  },
+  {
+    "gradebook": 620,
+    "surname": "Sharpe",
+    "avarageMark": 58
+  },
+  {
+    "gradebook": 621,
+    "surname": "Cash",
+    "avarageMark": 80
+  },
+  {
+    "gradebook": 622,
+    "surname": "Finley",
+    "avarageMark": 95
+  },
+  {
+    "gradebook": 623,
+    "surname": "Gill",
+    "avarageMark": 29
+  },
+  {
+    "gradebook": 624,
+    "surname": "Juarez",
+    "avarageMark": 6
+  },
+  {
+    "gradebook": 625,
+    "surname": "Reynolds",
+    "avarageMark": 40
+  },
+  {
+    "gradebook": 626,
+    "surname": "Guthrie",
+    "avarageMark": 86
+  },
+  {
+    "gradebook": 627,
+    "surname": "Blanchard",
+    "avarageMark": 33
+  },
+  {
+    "gradebook": 628,
+    "surname": "Holloway",
+    "avarageMark": 99
+  },
+  {
+    "gradebook": 629,
+    "surname": "Parker",
+    "avarageMark": 93
+  },
+  {
+    "gradebook": 630,
+    "surname": "Henry",
+    "avarageMark": 69
+  },
+  {
+    "gradebook": 631,
+    "surname": "Aguilar",
+    "avarageMark": 41
+  },
+  {
+    "gradebook": 632,
+    "surname": "Weber",
+    "avarageMark": 76
+  },
+  {
+    "gradebook": 633,
+    "surname": "George",
+    "avarageMark": 36
+  },
+  {
+    "gradebook": 634,
+    "surname": "Cameron",
+    "avarageMark": 53
+  },
+  {
+    "gradebook": 635,
+    "surname": "Hardin",
+    "avarageMark": 94
+  },
+  {
+    "gradebook": 636,
+    "surname": "Mccarty",
+    "avarageMark": 5
+  },
+  {
+    "gradebook": 637,
+    "surname": "Hansen",
+    "avarageMark": 56
+  },
+  {
+    "gradebook": 638,
+    "surname": "Briggs",
+    "avarageMark": 14
+  },
+  {
+    "gradebook": 639,
+    "surname": "Nunez",
+    "avarageMark": 12
+  },
+  {
+    "gradebook": 640,
+    "surname": "Chen",
+    "avarageMark": 76
+  },
+  {
+    "gradebook": 641,
+    "surname": "Dickson",
+    "avarageMark": 89
+  },
+  {
+    "gradebook": 642,
+    "surname": "Sanford",
+    "avarageMark": 21
+  },
+  {
+    "gradebook": 643,
+    "surname": "Barry",
+    "avarageMark": 89
+  },
+  {
+    "gradebook": 644,
+    "surname": "Underwood",
+    "avarageMark": 77
+  },
+  {
+    "gradebook": 645,
+    "surname": "Leon",
+    "avarageMark": 75
+  },
+  {
+    "gradebook": 646,
+    "surname": "Harmon",
+    "avarageMark": 29
+  },
+  {
+    "gradebook": 647,
+    "surname": "Holder",
+    "avarageMark": 45
+  },
+  {
+    "gradebook": 648,
+    "surname": "Lowery",
+    "avarageMark": 24
+  },
+  {
+    "gradebook": 649,
+    "surname": "Wilkerson",
+    "avarageMark": 11
+  },
+  {
+    "gradebook": 650,
+    "surname": "Henderson",
+    "avarageMark": 82
+  },
+  {
+    "gradebook": 651,
+    "surname": "Keller",
+    "avarageMark": 67
+  },
+  {
+    "gradebook": 652,
+    "surname": "Bonner",
+    "avarageMark": 86
+  },
+  {
+    "gradebook": 653,
+    "surname": "Bruce",
+    "avarageMark": 45
+  },
+  {
+    "gradebook": 654,
+    "surname": "Riddle",
+    "avarageMark": 79
+  },
+  {
+    "gradebook": 655,
+    "surname": "Santana",
+    "avarageMark": 89
+  },
+  {
+    "gradebook": 656,
+    "surname": "Warren",
+    "avarageMark": 62
+  },
+  {
+    "gradebook": 657,
+    "surname": "Love",
+    "avarageMark": 43
+  },
+  {
+    "gradebook": 658,
+    "surname": "Middleton",
+    "avarageMark": 73
+  },
+  {
+    "gradebook": 659,
+    "surname": "Madden",
+    "avarageMark": 11
+  },
+  {
+    "gradebook": 660,
+    "surname": "Talley",
+    "avarageMark": 12
+  },
+  {
+    "gradebook": 661,
+    "surname": "Jensen",
+    "avarageMark": 75
+  },
+  {
+    "gradebook": 662,
+    "surname": "Bowman",
+    "avarageMark": 9
+  },
+  {
+    "gradebook": 663,
+    "surname": "Walton",
+    "avarageMark": 84
+  },
+  {
+    "gradebook": 664,
+    "surname": "Raymond",
+    "avarageMark": 21
+  },
+  {
+    "gradebook": 665,
+    "surname": "Rhodes",
+    "avarageMark": 53
+  },
+  {
+    "gradebook": 666,
+    "surname": "Thornton",
+    "avarageMark": 41
+  },
+  {
+    "gradebook": 667,
+    "surname": "Odom",
+    "avarageMark": 48
+  },
+  {
+    "gradebook": 668,
+    "surname": "Martinez",
+    "avarageMark": 92
+  },
+  {
+    "gradebook": 669,
+    "surname": "Pruitt",
+    "avarageMark": 55
+  },
+  {
+    "gradebook": 670,
+    "surname": "Howell",
+    "avarageMark": 34
+  },
+  {
+    "gradebook": 671,
+    "surname": "Benjamin",
+    "avarageMark": 61
+  },
+  {
+    "gradebook": 672,
+    "surname": "Kent",
+    "avarageMark": 5
+  },
+  {
+    "gradebook": 673,
+    "surname": "Hooper",
+    "avarageMark": 97
+  },
+  {
+    "gradebook": 674,
+    "surname": "Kaufman",
+    "avarageMark": 59
+  },
+  {
+    "gradebook": 675,
+    "surname": "Lynch",
+    "avarageMark": 34
+  },
+  {
+    "gradebook": 676,
+    "surname": "Prince",
+    "avarageMark": 87
+  },
+  {
+    "gradebook": 677,
+    "surname": "Ramsey",
+    "avarageMark": 53
+  },
+  {
+    "gradebook": 678,
+    "surname": "Watkins",
+    "avarageMark": 59
+  },
+  {
+    "gradebook": 679,
+    "surname": "Gibbs",
+    "avarageMark": 71
+  },
+  {
+    "gradebook": 680,
+    "surname": "Hull",
+    "avarageMark": 28
+  },
+  {
+    "gradebook": 681,
+    "surname": "Whitney",
+    "avarageMark": 99
+  },
+  {
+    "gradebook": 682,
+    "surname": "Moss",
+    "avarageMark": 77
+  },
+  {
+    "gradebook": 683,
+    "surname": "Sheppard",
+    "avarageMark": 22
+  },
+  {
+    "gradebook": 684,
+    "surname": "Bradley",
+    "avarageMark": 70
+  },
+  {
+    "gradebook": 685,
+    "surname": "Rich",
+    "avarageMark": 87
+  },
+  {
+    "gradebook": 686,
+    "surname": "Osborne",
+    "avarageMark": 20
+  },
+  {
+    "gradebook": 687,
+    "surname": "Campos",
+    "avarageMark": 35
+  },
+  {
+    "gradebook": 688,
+    "surname": "Carlson",
+    "avarageMark": 43
+  },
+  {
+    "gradebook": 689,
+    "surname": "Huff",
+    "avarageMark": 81
+  },
+  {
+    "gradebook": 690,
+    "surname": "Joyce",
+    "avarageMark": 61
+  },
+  {
+    "gradebook": 691,
+    "surname": "Mueller",
+    "avarageMark": 53
+  },
+  {
+    "gradebook": 692,
+    "surname": "Preston",
+    "avarageMark": 21
+  },
+  {
+    "gradebook": 693,
+    "surname": "Short",
+    "avarageMark": 18
+  },
+  {
+    "gradebook": 694,
+    "surname": "Hill",
+    "avarageMark": 74
+  },
+  {
+    "gradebook": 695,
+    "surname": "Harrison",
+    "avarageMark": 6
+  },
+  {
+    "gradebook": 696,
+    "surname": "Rosales",
+    "avarageMark": 75
+  },
+  {
+    "gradebook": 697,
+    "surname": "Castro",
+    "avarageMark": 50
+  },
+  {
+    "gradebook": 698,
+    "surname": "Logan",
+    "avarageMark": 10
+  },
+  {
+    "gradebook": 699,
+    "surname": "Hyde",
+    "avarageMark": 9
+  },
+  {
+    "gradebook": 700,
+    "surname": "Brooks",
+    "avarageMark": 99
+  },
+  {
+    "gradebook": 701,
+    "surname": "Montgomery",
+    "avarageMark": 47
+  },
+  {
+    "gradebook": 702,
+    "surname": "Potts",
+    "avarageMark": 16
+  },
+  {
+    "gradebook": 703,
+    "surname": "Whitley",
+    "avarageMark": 100
+  },
+  {
+    "gradebook": 704,
+    "surname": "Curry",
+    "avarageMark": 25
+  },
+  {
+    "gradebook": 705,
+    "surname": "Smith",
+    "avarageMark": 40
+  },
+  {
+    "gradebook": 706,
+    "surname": "Wolf",
+    "avarageMark": 44
+  },
+  {
+    "gradebook": 707,
+    "surname": "Berry",
+    "avarageMark": 31
+  },
+  {
+    "gradebook": 708,
+    "surname": "Norris",
+    "avarageMark": 70
+  },
+  {
+    "gradebook": 709,
+    "surname": "Mayo",
+    "avarageMark": 63
+  },
+  {
+    "gradebook": 710,
+    "surname": "Crawford",
+    "avarageMark": 35
+  },
+  {
+    "gradebook": 711,
+    "surname": "William",
+    "avarageMark": 75
+  },
+  {
+    "gradebook": 712,
+    "surname": "Burch",
+    "avarageMark": 6
+  },
+  {
+    "gradebook": 713,
+    "surname": "Campbell",
+    "avarageMark": 92
+  },
+  {
+    "gradebook": 714,
+    "surname": "Pearson",
+    "avarageMark": 43
+  },
+  {
+    "gradebook": 715,
+    "surname": "Goodwin",
+    "avarageMark": 62
+  },
+  {
+    "gradebook": 716,
+    "surname": "Gamble",
+    "avarageMark": 11
+  },
+  {
+    "gradebook": 717,
+    "surname": "Frank",
+    "avarageMark": 57
+  },
+  {
+    "gradebook": 718,
+    "surname": "Matthews",
+    "avarageMark": 11
+  },
+  {
+    "gradebook": 719,
+    "surname": "Workman",
+    "avarageMark": 20
+  },
+  {
+    "gradebook": 720,
+    "surname": "Haley",
+    "avarageMark": 42
+  },
+  {
+    "gradebook": 721,
+    "surname": "Kemp",
+    "avarageMark": 13
+  },
+  {
+    "gradebook": 722,
+    "surname": "Moore",
+    "avarageMark": 29
+  },
+  {
+    "gradebook": 723,
+    "surname": "Strong",
+    "avarageMark": 21
+  },
+  {
+    "gradebook": 724,
+    "surname": "Hebert",
+    "avarageMark": 100
+  },
+  {
+    "gradebook": 725,
+    "surname": "Ochoa",
+    "avarageMark": 78
+  },
+  {
+    "gradebook": 726,
+    "surname": "Maynard",
+    "avarageMark": 88
+  },
+  {
+    "gradebook": 727,
+    "surname": "Valenzuela",
+    "avarageMark": 97
+  },
+  {
+    "gradebook": 728,
+    "surname": "Sexton",
+    "avarageMark": 99
+  },
+  {
+    "gradebook": 729,
+    "surname": "Davidson",
+    "avarageMark": 78
+  },
+  {
+    "gradebook": 730,
+    "surname": "Barker",
+    "avarageMark": 14
+  },
+  {
+    "gradebook": 731,
+    "surname": "Romero",
+    "avarageMark": 8
+  },
+  {
+    "gradebook": 732,
+    "surname": "Cortez",
+    "avarageMark": 29
+  },
+  {
+    "gradebook": 733,
+    "surname": "Weiss",
+    "avarageMark": 100
+  },
+  {
+    "gradebook": 734,
+    "surname": "Carson",
+    "avarageMark": 13
+  },
+  {
+    "gradebook": 735,
+    "surname": "Alford",
+    "avarageMark": 46
+  },
+  {
+    "gradebook": 736,
+    "surname": "Joyner",
+    "avarageMark": 97
+  },
+  {
+    "gradebook": 737,
+    "surname": "Downs",
+    "avarageMark": 95
+  },
+  {
+    "gradebook": 738,
+    "surname": "Wilkinson",
+    "avarageMark": 16
+  },
+  {
+    "gradebook": 739,
+    "surname": "Rivas",
+    "avarageMark": 70
+  },
+  {
+    "gradebook": 740,
+    "surname": "Mullins",
+    "avarageMark": 61
+  },
+  {
+    "gradebook": 741,
+    "surname": "Gould",
+    "avarageMark": 32
+  },
+  {
+    "gradebook": 742,
+    "surname": "Bowers",
+    "avarageMark": 99
+  },
+  {
+    "gradebook": 743,
+    "surname": "Mcintosh",
+    "avarageMark": 64
+  },
+  {
+    "gradebook": 744,
+    "surname": "Dean",
+    "avarageMark": 43
+  },
+  {
+    "gradebook": 745,
+    "surname": "Rosa",
+    "avarageMark": 54
+  },
+  {
+    "gradebook": 746,
+    "surname": "Cohen",
+    "avarageMark": 72
+  },
+  {
+    "gradebook": 747,
+    "surname": "Gilliam",
+    "avarageMark": 8
+  },
+  {
+    "gradebook": 748,
+    "surname": "Coleman",
+    "avarageMark": 65
+  },
+  {
+    "gradebook": 749,
+    "surname": "Mckee",
+    "avarageMark": 79
+  },
+  {
+    "gradebook": 750,
+    "surname": "Wilson",
+    "avarageMark": 99
+  },
+  {
+    "gradebook": 751,
+    "surname": "Mccormick",
+    "avarageMark": 99
+  },
+  {
+    "gradebook": 752,
+    "surname": "Santiago",
+    "avarageMark": 70
+  },
+  {
+    "gradebook": 753,
+    "surname": "Walsh",
+    "avarageMark": 68
+  },
+  {
+    "gradebook": 754,
+    "surname": "Barrera",
+    "avarageMark": 89
+  },
+  {
+    "gradebook": 755,
+    "surname": "Wade",
+    "avarageMark": 25
+  },
+  {
+    "gradebook": 756,
+    "surname": "Mclean",
+    "avarageMark": 68
+  },
+  {
+    "gradebook": 757,
+    "surname": "Luna",
+    "avarageMark": 12
+  },
+  {
+    "gradebook": 758,
+    "surname": "Rice",
+    "avarageMark": 10
+  },
+  {
+    "gradebook": 759,
+    "surname": "Wright",
+    "avarageMark": 84
+  },
+  {
+    "gradebook": 760,
+    "surname": "Dillon",
+    "avarageMark": 76
+  },
+  {
+    "gradebook": 761,
+    "surname": "Frost",
+    "avarageMark": 90
+  },
+  {
+    "gradebook": 762,
+    "surname": "Jackson",
+    "avarageMark": 37
+  },
+  {
+    "gradebook": 763,
+    "surname": "Turner",
+    "avarageMark": 67
+  },
+  {
+    "gradebook": 764,
+    "surname": "Shelton",
+    "avarageMark": 70
+  },
+  {
+    "gradebook": 765,
+    "surname": "Sutton",
+    "avarageMark": 34
+  },
+  {
+    "gradebook": 766,
+    "surname": "Cochran",
+    "avarageMark": 99
+  },
+  {
+    "gradebook": 767,
+    "surname": "Kelley",
+    "avarageMark": 86
+  },
+  {
+    "gradebook": 768,
+    "surname": "Miller",
+    "avarageMark": 47
+  },
+  {
+    "gradebook": 769,
+    "surname": "Cotton",
+    "avarageMark": 42
+  },
+  {
+    "gradebook": 770,
+    "surname": "Knox",
+    "avarageMark": 21
+  },
+  {
+    "gradebook": 771,
+    "surname": "Griffith",
+    "avarageMark": 63
+  },
+  {
+    "gradebook": 772,
+    "surname": "Lynn",
+    "avarageMark": 99
+  },
+  {
+    "gradebook": 773,
+    "surname": "Finch",
+    "avarageMark": 46
+  },
+  {
+    "gradebook": 774,
+    "surname": "Francis",
+    "avarageMark": 48
+  },
+  {
+    "gradebook": 775,
+    "surname": "Wolfe",
+    "avarageMark": 94
+  },
+  {
+    "gradebook": 776,
+    "surname": "Mason",
+    "avarageMark": 30
+  },
+  {
+    "gradebook": 777,
+    "surname": "Vega",
+    "avarageMark": 35
+  },
+  {
+    "gradebook": 778,
+    "surname": "Norton",
+    "avarageMark": 64
+  },
+  {
+    "gradebook": 779,
+    "surname": "Hewitt",
+    "avarageMark": 16
+  },
+  {
+    "gradebook": 780,
+    "surname": "Jones",
+    "avarageMark": 41
+  },
+  {
+    "gradebook": 781,
+    "surname": "Tyler",
+    "avarageMark": 5
+  },
+  {
+    "gradebook": 782,
+    "surname": "Harding",
+    "avarageMark": 63
+  },
+  {
+    "gradebook": 783,
+    "surname": "Best",
+    "avarageMark": 17
+  },
+  {
+    "gradebook": 784,
+    "surname": "Mcgee",
+    "avarageMark": 78
+  },
+  {
+    "gradebook": 785,
+    "surname": "Dorsey",
+    "avarageMark": 96
+  },
+  {
+    "gradebook": 786,
+    "surname": "Stuart",
+    "avarageMark": 61
+  },
+  {
+    "gradebook": 787,
+    "surname": "Randall",
+    "avarageMark": 21
+  },
+  {
+    "gradebook": 788,
+    "surname": "Caldwell",
+    "avarageMark": 57
+  },
+  {
+    "gradebook": 789,
+    "surname": "Skinner",
+    "avarageMark": 85
+  },
+  {
+    "gradebook": 790,
+    "surname": "Ayala",
+    "avarageMark": 31
+  },
+  {
+    "gradebook": 791,
+    "surname": "Haney",
+    "avarageMark": 24
+  },
+  {
+    "gradebook": 792,
+    "surname": "Buckner",
+    "avarageMark": 70
+  },
+  {
+    "gradebook": 793,
+    "surname": "Atkinson",
+    "avarageMark": 10
+  },
+  {
+    "gradebook": 794,
+    "surname": "Odonnell",
+    "avarageMark": 65
+  },
+  {
+    "gradebook": 795,
+    "surname": "Yang",
+    "avarageMark": 25
+  },
+  {
+    "gradebook": 796,
+    "surname": "Eaton",
+    "avarageMark": 95
+  },
+  {
+    "gradebook": 797,
+    "surname": "Bird",
+    "avarageMark": 6
+  },
+  {
+    "gradebook": 798,
+    "surname": "Callahan",
+    "avarageMark": 7
+  },
+  {
+    "gradebook": 799,
+    "surname": "Schneider",
+    "avarageMark": 96
+  },
+  {
+    "gradebook": 800,
+    "surname": "Peterson",
+    "avarageMark": 80
+  },
+  {
+    "gradebook": 801,
+    "surname": "Heath",
+    "avarageMark": 12
+  },
+  {
+    "gradebook": 802,
+    "surname": "Church",
+    "avarageMark": 49
+  },
+  {
+    "gradebook": 803,
+    "surname": "Carpenter",
+    "avarageMark": 95
+  },
+  {
+    "gradebook": 804,
+    "surname": "Good",
+    "avarageMark": 38
+  },
+  {
+    "gradebook": 805,
+    "surname": "Morrow",
+    "avarageMark": 12
+  },
+  {
+    "gradebook": 806,
+    "surname": "Burke",
+    "avarageMark": 40
+  },
+  {
+    "gradebook": 807,
+    "surname": "Payne",
+    "avarageMark": 48
+  },
+  {
+    "gradebook": 808,
+    "surname": "Massey",
+    "avarageMark": 43
+  },
+  {
+    "gradebook": 809,
+    "surname": "Cervantes",
+    "avarageMark": 29
+  },
+  {
+    "gradebook": 810,
+    "surname": "Marquez",
+    "avarageMark": 68
+  },
+  {
+    "gradebook": 811,
+    "surname": "Calhoun",
+    "avarageMark": 67
+  },
+  {
+    "gradebook": 812,
+    "surname": "Shannon",
+    "avarageMark": 70
+  },
+  {
+    "gradebook": 813,
+    "surname": "Jefferson",
+    "avarageMark": 66
+  },
+  {
+    "gradebook": 814,
+    "surname": "Ware",
+    "avarageMark": 15
+  },
+  {
+    "gradebook": 815,
+    "surname": "Cox",
+    "avarageMark": 66
+  },
+  {
+    "gradebook": 816,
+    "surname": "Holt",
+    "avarageMark": 36
+  },
+  {
+    "gradebook": 817,
+    "surname": "Kline",
+    "avarageMark": 74
+  },
+  {
+    "gradebook": 818,
+    "surname": "Lang",
+    "avarageMark": 88
+  },
+  {
+    "gradebook": 819,
+    "surname": "Fitzgerald",
+    "avarageMark": 17
+  },
+  {
+    "gradebook": 820,
+    "surname": "Mcclain",
+    "avarageMark": 63
+  },
+  {
+    "gradebook": 821,
+    "surname": "Blackwell",
+    "avarageMark": 30
+  },
+  {
+    "gradebook": 822,
+    "surname": "Doyle",
+    "avarageMark": 28
+  },
+  {
+    "gradebook": 823,
+    "surname": "Chapman",
+    "avarageMark": 11
+  },
+  {
+    "gradebook": 824,
+    "surname": "Wilkins",
+    "avarageMark": 89
+  },
+  {
+    "gradebook": 825,
+    "surname": "Horton",
+    "avarageMark": 8
+  },
+  {
+    "gradebook": 826,
+    "surname": "Conway",
+    "avarageMark": 85
+  },
+  {
+    "gradebook": 827,
+    "surname": "Lindsey",
+    "avarageMark": 46
+  },
+  {
+    "gradebook": 828,
+    "surname": "Chan",
+    "avarageMark": 95
+  },
+  {
+    "gradebook": 829,
+    "surname": "Dawson",
+    "avarageMark": 71
+  },
+  {
+    "gradebook": 830,
+    "surname": "Villarreal",
+    "avarageMark": 35
+  },
+  {
+    "gradebook": 831,
+    "surname": "Coffey",
+    "avarageMark": 69
+  },
+  {
+    "gradebook": 832,
+    "surname": "Jarvis",
+    "avarageMark": 14
+  },
+  {
+    "gradebook": 833,
+    "surname": "Donaldson",
+    "avarageMark": 19
+  },
+  {
+    "gradebook": 834,
+    "surname": "Gaines",
+    "avarageMark": 80
+  },
+  {
+    "gradebook": 835,
+    "surname": "Cooke",
+    "avarageMark": 93
+  },
+  {
+    "gradebook": 836,
+    "surname": "Glass",
+    "avarageMark": 33
+  },
+  {
+    "gradebook": 837,
+    "surname": "Mclaughlin",
+    "avarageMark": 92
+  },
+  {
+    "gradebook": 838,
+    "surname": "Joseph",
+    "avarageMark": 56
+  },
+  {
+    "gradebook": 839,
+    "surname": "Ewing",
+    "avarageMark": 35
+  },
+  {
+    "gradebook": 840,
+    "surname": "Gonzalez",
+    "avarageMark": 71
+  },
+  {
+    "gradebook": 841,
+    "surname": "Cantu",
+    "avarageMark": 89
+  },
+  {
+    "gradebook": 842,
+    "surname": "Hogan",
+    "avarageMark": 60
+  },
+  {
+    "gradebook": 843,
+    "surname": "Alvarez",
+    "avarageMark": 92
+  },
+  {
+    "gradebook": 844,
+    "surname": "Houston",
+    "avarageMark": 93
+  },
+  {
+    "gradebook": 845,
+    "surname": "Oconnor",
+    "avarageMark": 45
+  },
+  {
+    "gradebook": 846,
+    "surname": "Winters",
+    "avarageMark": 68
+  },
+  {
+    "gradebook": 847,
+    "surname": "Dunn",
+    "avarageMark": 60
+  },
+  {
+    "gradebook": 848,
+    "surname": "Hunter",
+    "avarageMark": 19
+  },
+  {
+    "gradebook": 849,
+    "surname": "Shaw",
+    "avarageMark": 22
+  },
+  {
+    "gradebook": 850,
+    "surname": "Hobbs",
+    "avarageMark": 50
+  },
+  {
+    "gradebook": 851,
+    "surname": "Walter",
+    "avarageMark": 18
+  },
+  {
+    "gradebook": 852,
+    "surname": "Garza",
+    "avarageMark": 53
+  },
+  {
+    "gradebook": 853,
+    "surname": "Paul",
+    "avarageMark": 69
+  },
+  {
+    "gradebook": 854,
+    "surname": "Stanley",
+    "avarageMark": 28
+  },
+  {
+    "gradebook": 855,
+    "surname": "Irwin",
+    "avarageMark": 96
+  },
+  {
+    "gradebook": 856,
+    "surname": "Daniels",
+    "avarageMark": 41
+  },
+  {
+    "gradebook": 857,
+    "surname": "Vaughn",
+    "avarageMark": 54
+  },
+  {
+    "gradebook": 858,
+    "surname": "Stevens",
+    "avarageMark": 44
+  },
+  {
+    "gradebook": 859,
+    "surname": "Bush",
+    "avarageMark": 56
+  },
+  {
+    "gradebook": 860,
+    "surname": "Meyers",
+    "avarageMark": 27
+  },
+  {
+    "gradebook": 861,
+    "surname": "Boyd",
+    "avarageMark": 100
+  },
+  {
+    "gradebook": 862,
+    "surname": "Wise",
+    "avarageMark": 29
+  },
+  {
+    "gradebook": 863,
+    "surname": "Hays",
+    "avarageMark": 69
+  },
+  {
+    "gradebook": 864,
+    "surname": "Cardenas",
+    "avarageMark": 51
+  },
+  {
+    "gradebook": 865,
+    "surname": "Frye",
+    "avarageMark": 47
+  },
+  {
+    "gradebook": 866,
+    "surname": "Tran",
+    "avarageMark": 37
+  },
+  {
+    "gradebook": 867,
+    "surname": "Melton",
+    "avarageMark": 76
+  },
+  {
+    "gradebook": 868,
+    "surname": "Fulton",
+    "avarageMark": 44
+  },
+  {
+    "gradebook": 869,
+    "surname": "Grimes",
+    "avarageMark": 3
+  },
+  {
+    "gradebook": 870,
+    "surname": "Pickett",
+    "avarageMark": 4
+  },
+  {
+    "gradebook": 871,
+    "surname": "Valencia",
+    "avarageMark": 11
+  },
+  {
+    "gradebook": 872,
+    "surname": "Hurst",
+    "avarageMark": 27
+  },
+  {
+    "gradebook": 873,
+    "surname": "Randolph",
+    "avarageMark": 38
+  },
+  {
+    "gradebook": 874,
+    "surname": "Wallace",
+    "avarageMark": 49
+  },
+  {
+    "gradebook": 875,
+    "surname": "Marks",
+    "avarageMark": 28
+  },
+  {
+    "gradebook": 876,
+    "surname": "Zamora",
+    "avarageMark": 86
+  },
+  {
+    "gradebook": 877,
+    "surname": "Burns",
+    "avarageMark": 48
+  },
+  {
+    "gradebook": 878,
+    "surname": "Clay",
+    "avarageMark": 18
+  },
+  {
+    "gradebook": 879,
+    "surname": "Noble",
+    "avarageMark": 73
+  },
+  {
+    "gradebook": 880,
+    "surname": "Lowe",
+    "avarageMark": 16
+  },
+  {
+    "gradebook": 881,
+    "surname": "Clements",
+    "avarageMark": 93
+  },
+  {
+    "gradebook": 882,
+    "surname": "Patton",
+    "avarageMark": 16
+  },
+  {
+    "gradebook": 883,
+    "surname": "Dennis",
+    "avarageMark": 31
+  },
+  {
+    "gradebook": 884,
+    "surname": "Moody",
+    "avarageMark": 4
+  },
+  {
+    "gradebook": 885,
+    "surname": "Roberson",
+    "avarageMark": 51
+  },
+  {
+    "gradebook": 886,
+    "surname": "Pope",
+    "avarageMark": 81
+  },
+  {
+    "gradebook": 887,
+    "surname": "Tyson",
+    "avarageMark": 56
+  },
+  {
+    "gradebook": 888,
+    "surname": "Peck",
+    "avarageMark": 76
+  },
+  {
+    "gradebook": 889,
+    "surname": "Hoover",
+    "avarageMark": 71
+  },
+  {
+    "gradebook": 890,
+    "surname": "Cobb",
+    "avarageMark": 28
+  },
+  {
+    "gradebook": 891,
+    "surname": "Bright",
+    "avarageMark": 78
+  },
+  {
+    "gradebook": 892,
+    "surname": "Reilly",
+    "avarageMark": 68
+  },
+  {
+    "gradebook": 893,
+    "surname": "Salas",
+    "avarageMark": 96
+  },
+  {
+    "gradebook": 894,
+    "surname": "Lewis",
+    "avarageMark": 39
+  },
+  {
+    "gradebook": 895,
+    "surname": "Armstrong",
+    "avarageMark": 67
+  },
+  {
+    "gradebook": 896,
+    "surname": "Collier",
+    "avarageMark": 4
+  },
+  {
+    "gradebook": 897,
+    "surname": "Simmons",
+    "avarageMark": 49
+  },
+  {
+    "gradebook": 898,
+    "surname": "Combs",
+    "avarageMark": 37
+  },
+  {
+    "gradebook": 899,
+    "surname": "Copeland",
+    "avarageMark": 33
+  },
+  {
+    "gradebook": 900,
+    "surname": "Hodge",
+    "avarageMark": 79
+  },
+  {
+    "gradebook": 901,
+    "surname": "Rollins",
+    "avarageMark": 23
+  },
+  {
+    "gradebook": 902,
+    "surname": "Roth",
+    "avarageMark": 2
+  },
+  {
+    "gradebook": 903,
+    "surname": "Sears",
+    "avarageMark": 91
+  },
+  {
+    "gradebook": 904,
+    "surname": "Small",
+    "avarageMark": 53
+  },
+  {
+    "gradebook": 905,
+    "surname": "Webb",
+    "avarageMark": 45
+  },
+  {
+    "gradebook": 906,
+    "surname": "Rivers",
+    "avarageMark": 99
+  },
+  {
+    "gradebook": 907,
+    "surname": "Marshall",
+    "avarageMark": 34
+  },
+  {
+    "gradebook": 908,
+    "surname": "Barron",
+    "avarageMark": 78
+  },
+  {
+    "gradebook": 909,
+    "surname": "Bray",
+    "avarageMark": 28
+  },
+  {
+    "gradebook": 910,
+    "surname": "Gutierrez",
+    "avarageMark": 14
+  },
+  {
+    "gradebook": 911,
+    "surname": "Serrano",
+    "avarageMark": 92
+  },
+  {
+    "gradebook": 912,
+    "surname": "Cote",
+    "avarageMark": 63
+  },
+  {
+    "gradebook": 913,
+    "surname": "York",
+    "avarageMark": 98
+  },
+  {
+    "gradebook": 914,
+    "surname": "Chaney",
+    "avarageMark": 11
+  },
+  {
+    "gradebook": 915,
+    "surname": "Sellers",
+    "avarageMark": 27
+  },
+  {
+    "gradebook": 916,
+    "surname": "Stout",
+    "avarageMark": 26
+  },
+  {
+    "gradebook": 917,
+    "surname": "Spears",
+    "avarageMark": 55
+  },
+  {
+    "gradebook": 918,
+    "surname": "Vinson",
+    "avarageMark": 96
+  },
+  {
+    "gradebook": 919,
+    "surname": "Blankenship",
+    "avarageMark": 41
+  },
+  {
+    "gradebook": 920,
+    "surname": "Potter",
+    "avarageMark": 91
+  },
+  {
+    "gradebook": 921,
+    "surname": "Cleveland",
+    "avarageMark": 45
+  },
+  {
+    "gradebook": 922,
+    "surname": "Holden",
+    "avarageMark": 44
+  },
+  {
+    "gradebook": 923,
+    "surname": "Poole",
+    "avarageMark": 55
+  },
+  {
+    "gradebook": 924,
+    "surname": "Ortega",
+    "avarageMark": 74
+  },
+  {
+    "gradebook": 925,
+    "surname": "Bolton",
+    "avarageMark": 47
+  },
+  {
+    "gradebook": 926,
+    "surname": "Witt",
+    "avarageMark": 41
+  },
+  {
+    "gradebook": 927,
+    "surname": "Black",
+    "avarageMark": 6
+  },
+  {
+    "gradebook": 928,
+    "surname": "Maxwell",
+    "avarageMark": 11
+  },
+  {
+    "gradebook": 929,
+    "surname": "Levine",
+    "avarageMark": 98
+  },
+  {
+    "gradebook": 930,
+    "surname": "Walker",
+    "avarageMark": 5
+  },
+  {
+    "gradebook": 931,
+    "surname": "Ryan",
+    "avarageMark": 73
+  },
+  {
+    "gradebook": 932,
+    "surname": "Glover",
+    "avarageMark": 84
+  },
+  {
+    "gradebook": 933,
+    "surname": "Nolan",
+    "avarageMark": 21
+  },
+  {
+    "gradebook": 934,
+    "surname": "Fitzpatrick",
+    "avarageMark": 62
+  },
+  {
+    "gradebook": 935,
+    "surname": "Jennings",
+    "avarageMark": 12
+  },
+  {
+    "gradebook": 936,
+    "surname": "Ferrell",
+    "avarageMark": 28
+  },
+  {
+    "gradebook": 937,
+    "surname": "Phillips",
+    "avarageMark": 39
+  },
+  {
+    "gradebook": 938,
+    "surname": "Castillo",
+    "avarageMark": 55
+  },
+  {
+    "gradebook": 939,
+    "surname": "Chambers",
+    "avarageMark": 79
+  },
+  {
+    "gradebook": 940,
+    "surname": "Larsen",
+    "avarageMark": 6
+  },
+  {
+    "gradebook": 941,
+    "surname": "Kramer",
+    "avarageMark": 76
+  },
+  {
+    "gradebook": 942,
+    "surname": "Nelson",
+    "avarageMark": 40
+  },
+  {
+    "gradebook": 943,
+    "surname": "Knight",
+    "avarageMark": 37
+  },
+  {
+    "gradebook": 944,
+    "surname": "Nielsen",
+    "avarageMark": 81
+  },
+  {
+    "gradebook": 945,
+    "surname": "Faulkner",
+    "avarageMark": 88
+  },
+  {
+    "gradebook": 946,
+    "surname": "Curtis",
+    "avarageMark": 76
+  },
+  {
+    "gradebook": 947,
+    "surname": "Morrison",
+    "avarageMark": 27
+  },
+  {
+    "gradebook": 948,
+    "surname": "Nixon",
+    "avarageMark": 85
+  },
+  {
+    "gradebook": 949,
+    "surname": "Mcconnell",
+    "avarageMark": 5
+  },
+  {
+    "gradebook": 950,
+    "surname": "Buck",
+    "avarageMark": 1
+  },
+  {
+    "gradebook": 951,
+    "surname": "Cline",
+    "avarageMark": 97
+  },
+  {
+    "gradebook": 952,
+    "surname": "Grant",
+    "avarageMark": 75
+  },
+  {
+    "gradebook": 953,
+    "surname": "Obrien",
+    "avarageMark": 26
+  },
+  {
+    "gradebook": 954,
+    "surname": "Weeks",
+    "avarageMark": 74
+  },
+  {
+    "gradebook": 955,
+    "surname": "Page",
+    "avarageMark": 100
+  },
+  {
+    "gradebook": 956,
+    "surname": "Davis",
+    "avarageMark": 25
+  },
+  {
+    "gradebook": 957,
+    "surname": "Head",
+    "avarageMark": 85
+  },
+  {
+    "gradebook": 958,
+    "surname": "Harrington",
+    "avarageMark": 90
+  },
+  {
+    "gradebook": 959,
+    "surname": "Gay",
+    "avarageMark": 54
+  },
+  {
+    "gradebook": 960,
+    "surname": "Mcleod",
+    "avarageMark": 71
+  },
+  {
+    "gradebook": 961,
+    "surname": "Freeman",
+    "avarageMark": 10
+  },
+  {
+    "gradebook": 962,
+    "surname": "Olson",
+    "avarageMark": 81
+  },
+  {
+    "gradebook": 963,
+    "surname": "Hensley",
+    "avarageMark": 47
+  },
+  {
+    "gradebook": 964,
+    "surname": "Whitehead",
+    "avarageMark": 59
+  },
+  {
+    "gradebook": 965,
+    "surname": "Nieves",
+    "avarageMark": 67
+  },
+  {
+    "gradebook": 966,
+    "surname": "Richardson",
+    "avarageMark": 12
+  },
+  {
+    "gradebook": 967,
+    "surname": "Rogers",
+    "avarageMark": 91
+  },
+  {
+    "gradebook": 968,
+    "surname": "Fischer",
+    "avarageMark": 70
+  },
+  {
+    "gradebook": 969,
+    "surname": "Ray",
+    "avarageMark": 57
+  },
+  {
+    "gradebook": 970,
+    "surname": "Watson",
+    "avarageMark": 23
+  },
+  {
+    "gradebook": 971,
+    "surname": "Burt",
+    "avarageMark": 8
+  },
+  {
+    "gradebook": 972,
+    "surname": "Everett",
+    "avarageMark": 40
+  },
+  {
+    "gradebook": 973,
+    "surname": "Mitchell",
+    "avarageMark": 79
+  },
+  {
+    "gradebook": 974,
+    "surname": "Haynes",
+    "avarageMark": 55
+  },
+  {
+    "gradebook": 975,
+    "surname": "Barnett",
+    "avarageMark": 59
+  },
+  {
+    "gradebook": 976,
+    "surname": "Morse",
+    "avarageMark": 85
+  },
+  {
+    "gradebook": 977,
+    "surname": "Parrish",
+    "avarageMark": 64
+  },
+  {
+    "gradebook": 978,
+    "surname": "Hernandez",
+    "avarageMark": 75
+  },
+  {
+    "gradebook": 979,
+    "surname": "Burgess",
+    "avarageMark": 2
+  },
+  {
+    "gradebook": 980,
+    "surname": "Wooten",
+    "avarageMark": 41
+  },
+  {
+    "gradebook": 981,
+    "surname": "Justice",
+    "avarageMark": 67
+  },
+  {
+    "gradebook": 982,
+    "surname": "Brewer",
+    "avarageMark": 96
+  },
+  {
+    "gradebook": 983,
+    "surname": "Cherry",
+    "avarageMark": 57
+  },
+  {
+    "gradebook": 984,
+    "surname": "Mays",
+    "avarageMark": 71
+  },
+  {
+    "gradebook": 985,
+    "surname": "Garrett",
+    "avarageMark": 15
+  },
+  {
+    "gradebook": 986,
+    "surname": "Clemons",
+    "avarageMark": 74
+  },
+  {
+    "gradebook": 987,
+    "surname": "Hamilton",
+    "avarageMark": 22
+  },
+  {
+    "gradebook": 988,
+    "surname": "Golden",
+    "avarageMark": 66
+  },
+  {
+    "gradebook": 989,
+    "surname": "England",
+    "avarageMark": 3
+  },
+  {
+    "gradebook": 990,
+    "surname": "Fernandez",
+    "avarageMark": 33
+  },
+  {
+    "gradebook": 991,
+    "surname": "Brown",
+    "avarageMark": 72
+  },
+  {
+    "gradebook": 992,
+    "surname": "Cole",
+    "avarageMark": 26
+  },
+  {
+    "gradebook": 993,
+    "surname": "Franks",
+    "avarageMark": 53
+  },
+  {
+    "gradebook": 994,
+    "surname": "Maldonado",
+    "avarageMark": 9
+  },
+  {
+    "gradebook": 995,
+    "surname": "Valentine",
+    "avarageMark": 24
+  },
+  {
+    "gradebook": 996,
+    "surname": "Wilder",
+    "avarageMark": 5
+  },
+  {
+    "gradebook": 997,
+    "surname": "Oneill",
+    "avarageMark": 10
+  },
+  {
+    "gradebook": 998,
+    "surname": "Sweet",
+    "avarageMark": 52
+  },
+  {
+    "gradebook": 999,
+    "surname": "Quinn",
+    "avarageMark": 60
+  },
+  {
+    "gradebook": 1000,
+    "surname": "Mcguire",
+    "avarageMark": 40
+  }
+]
